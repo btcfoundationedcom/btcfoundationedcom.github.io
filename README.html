@@ -1,0 +1,12 @@
+<h1 id="guides-of-the-education-committee-of-the-bitcoin-foundation">Guides of the Education Committee of the Bitcoin Foundation</h1>
+<p>You will need to have the following programs installed on your computer:</p>
+<ul>
+<li>Pandoc</li>
+<li>XeLaTeX</li>
+</ul>
+<h2 id="create-pdf-version">Create pdf version</h2>
+<pre><code>pandoc -V papersize:&quot;letterpaper&quot; -V fontsize:&quot;12pt&quot; --template templates/foundation.latex intoduction.md --latex-engine=xelatex -o introduction_letter.pdf
+
+pandoc -V papersize:&quot;a4paper&quot; -V fontsize:&quot;12pt&quot; --template templates/foundation.latex intoduction.md --latex-engine=xelatex -o introduction_a4.pdf</code></pre>
+<h2 id="create-html-version">Create html version</h2>
+<pre><code>pandoc -s -S --toc -H foundation.css ../guides/intoduction.md -o introduction.html</code></pre>

@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Education Committee of the Bitcoin Foundation" />
+  <title>Bitcoin for Regulators</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style>
+  div#header, header
+      {
+      /* Put border on bottom. Separates it from TOC or body that comes after it. */
+      border-bottom: 1px solid #aaa;
+      margin-bottom: 0.5em;
+      }
+  
+  .title /* Pandoc title header (h1.title) */
+      {
+      text-align: center;
+      }
+  
+  .author, .date /* Pandoc author(s) and date headers (h2.author and h3.date) */
+      {
+      text-align: center;
+      }
+  
+  /* Pandoc table of contents DIV when using the --toc option.
+     NOTE: this doesn't support Pandoc's --id-prefix option for #TOC and #header. 
+     Probably would need to use div[id$='TOC'] and div[id$='header'] as selectors.
+  */
+  
+  div#TOC, nav#TOC
+      {
+      /* Put border on bottom to separate it from body. */
+      border-bottom: 1px solid #aaa;
+      margin-bottom: 0.5em;
+      }
+  
+  @media print
+      {
+      div#TOC, nav#TOC
+          {
+          /* Don't display TOC in print */
+          display: none;
+          }
+      }
+  
+  /* ---- Headers and sections ---- */
+  
+  h1, h2, h3, h4, h5, h6
+  {
+      font-family: "Helvetica Neue", Helvetica, "Liberation Sans", Calibri, Arial, sans-serif; /* Sans-serif headers */
+  
+      /* font-family: "Liberation Serif", "Georgia", "Times New Roman", serif; /* Serif headers */
+  
+      page-break-after: avoid; /* Firefox, Chrome, and Safari do not support the property value "avoid" */
+  }
+  
+  /* Pandoc with --section-divs option */
+  
+  div div, section section /* Nested sections */
+      {
+      margin-left: 2em; /* This will increasingly indent nested header sections */
+      }
+  
+  p {}
+  
+  blockquote
+      { 
+      font-style: italic;
+      }
+  
+  li /* All list items */
+      {
+      }
+  
+  li > p /* Loosely spaced list item */
+      {
+      margin-top: 1em; /* IE: lack of space above a <li> when the item is inside a <p> */
+      }
+  
+  ul /* Whole unordered list */
+      {
+      }
+  
+  ul li /* Unordered list item */
+      {
+      }
+  
+  ol /* Whole ordered list */
+      {
+      }
+  
+  ol li /* Ordered list item */
+      {
+      }
+  
+  hr {}
+  
+  /* ---- Some span elements --- */
+  
+  sub /* Subscripts. Pandoc: H~2~O */
+      {
+      }
+  
+  sup /* Superscripts. Pandoc: The 2^nd^ try. */
+      {
+      }
+      
+  em /* Emphasis. Markdown: *emphasis* or _emphasis_ */
+      {
+      }
+      
+  em > em /* Emphasis within emphasis: *This is all *emphasized* except that* */
+      {
+      font-style: normal;
+      }
+  
+  strong /* Markdown **strong** or __strong__ */
+      {
+      }
+  
+  /* ---- Links (anchors) ---- */
+  
+  a /* All links */
+      {
+      /* Keep links clean. On screen, they are colored; in print, they do nothing anyway. */
+      text-decoration: none;
+      }
+  
+  @media screen
+      {
+      a:hover
+          {
+          /* On hover, we indicate a bit more that it is a link. */
+          text-decoration: underline;
+          }
+      }
+  
+  @media print
+      {
+      a   {
+          /* In print, a colored link is useless, so un-style it. */
+          color: black;
+          background: transparent;
+          }
+          
+      a[href^="http://"]:after, a[href^="https://"]:after
+          {
+          /* However, links that go somewhere else, might be useful to the reader,
+             so for http and https links, print the URL after what was the link 
+             text in parens
+          */
+          content: " (" attr(href) ") ";
+          font-size: 90%;
+          }
+      }
+  
+  /* ---- Images ---- */
+  
+  img
+      {
+      /* Let it be inline left/right where it wants to be, but verticality make 
+         it in the middle to look nicer, but opinions differ, and if in a multi-line 
+         paragraph, it might not be so great. 
+      */
+      vertical-align: middle;
+      }
+  
+  div.figure /* Pandoc figure-style image */
+      {
+      /* Center the image and caption */
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      font-style: italic;
+      }
+  
+  p.caption /* Pandoc figure-style caption within div.figure */
+      {
+      /* Inherits div.figure props by default */
+      }
+  
+  /* ---- Code blocks and spans ---- */
+  
+  pre, code 
+      {
+      background-color: #fdf7ee;
+      /* BEGIN word wrap */
+      /* Need all the following to word wrap instead of scroll box */
+      /* This will override the overflow:auto if present */
+      white-space: pre-wrap; /* css-3 */
+      white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+      white-space: -pre-wrap; /* Opera 4-6 */
+      white-space: -o-pre-wrap; /* Opera 7 */
+      word-wrap: break-word; /* Internet Explorer 5.5+ */
+      /* END word wrap */
+      }
+  
+  pre /* Code blocks */
+      {
+      /* Distinguish pre blocks from other text by more than the font with a background tint. */
+      padding: 0.5em; /* Since we have a background color */
+      border-radius: 5px; /* Softens it */
+      /* Give it a some definition */
+      border: 1px solid #aaa;
+      /* Set it off left and right, seems to look a bit nicer when we have a background */
+      margin-left:  0.5em;
+      margin-right: 0.5em;
+      }
+  
+  @media screen
+      {
+      pre
+          {
+          /* On screen, use an auto scroll box for long lines, unless word-wrap is enabled */
+          white-space: pre;
+          overflow: auto;
+          /* Dotted looks better on screen and solid seems to print better. */
+          border: 1px dotted #777;
+          }
+      }
+  
+  code /* All inline code spans */
+      {
+      }
+  
+  p > code, li > code /* Code spans in paragraphs and tight lists */
+      {
+      /* Pad a little from adjacent text */
+      padding-left:  2px;
+      padding-right: 2px;
+      }
+      
+  li > p code /* Code span in a loose list */
+      {
+      /* We have room for some more background color above and below */
+      padding: 2px;
+      }
+  
+  /* ---- Math ---- */
+  
+  span.math /* Pandoc inline math default and --jsmath inline math */
+      {
+      /* Tried font-style:italic here, and it messed up MathJax rendering in some browsers. Maybe don't mess with at all. */
+      }
+      
+  div.math /* Pandoc --jsmath display math */
+      {
+      }
+      
+  span.LaTeX /* Pandoc --latexmathml math */
+      {
+      } 
+  
+  eq /* Pandoc --gladtex math */
+      {
+      } 
+  
+  /* ---- Tables ---- */
+  
+  /*  A clean textbook-like style with horizontal lines above and below and under 
+      the header. Rows highlight on hover to help scanning the table on screen.
+  */
+  
+  table
+      {
+      border-collapse: collapse;
+      border-spacing: 0; /* IE 6 */
+  
+      border-bottom: 2pt solid #000;
+      border-top: 2pt solid #000; /* The caption on top will not have a bottom-border */
+  
+      /* Center */
+      margin-left: auto;
+      margin-right: auto;
+      }
+      
+  thead /* Entire table header */
+      {
+      border-bottom: 1pt solid #000;
+      background-color: #eee; /* Does this BG print well? */
+      }
+  
+  tr.header /* Each header row */
+      {
+      } 
+  
+  tbody /* Entire table  body */
+      {
+      }
+  
+  /* Table body rows */
+  
+  tr  {
+      }
+  tr.odd:hover, tr.even:hover /* Use .odd and .even classes to avoid styling rows in other tables */
+      {
+      background-color: #eee;
+      }
+      
+  /* Odd and even rows */
+  tr.odd {}
+  tr.even {}
+  
+  td, th /* Table cells and table header cells */
+      { 
+      vertical-align: top; /* Word */
+      vertical-align: baseline; /* Others */
+      padding-left:   0.5em;
+      padding-right:  0.5em;
+      padding-top:    0.2em;
+      padding-bottom: 0.2em;
+      }
+      
+  /* Removes padding on left and right of table for a tight look. Good if thead has no background color*/
+  /*
+  tr td:last-child, tr th:last-child
+      {
+      padding-right: 0;
+      }
+  tr td:first-child, tr th:first-child 
+      {
+      padding-left: 0;
+      }
+  */
+  
+  th /* Table header cells */
+      {
+      font-weight: bold; 
+      }
+  
+  tfoot /* Table footer (what appears here if caption is on top?) */
+      {
+      }
+  
+  caption /* This is for a table caption tag, not the p.caption Pandoc uses in a div.figure */
+      {
+      caption-side: top;
+      border: none;
+      font-size: 0.9em;
+      font-style: italic;
+      text-align: center;
+      margin-bottom: 0.3em; /* Good for when on top */
+      padding-bottom: 0.2em;
+      }
+  
+  /* ---- Definition lists ---- */
+  
+  dl /* The whole list */
+      {
+      border-top: 2pt solid black;
+      padding-top: 0.5em;
+      border-bottom: 2pt solid black;
+      }
+  
+  dt /* Definition term */
+      {
+      font-weight: bold;
+      }
+  
+  dd+dt /* 2nd or greater term in the list */
+      {
+      border-top: 1pt solid black;
+      padding-top: 0.5em;
+      }
+      
+  dd /* A definition */
+      {
+      margin-bottom: 0.5em;
+      }
+  
+  dd+dd /* 2nd or greater definition of a term */
+      {
+      border-top: 1px solid black; /* To separate multiple definitions */
+      }
+      
+  /* ---- Footnotes ---- */
+  
+  a.footnote, a.footnoteRef { /* Pandoc, MultiMarkdown footnote links */
+      font-size: small; 
+      vertical-align: text-top;
+  }
+  
+  a[href^="#fnref"], a.reversefootnote /* Pandoc, MultiMarkdown, ?? footnote back links */
+      {
+      }
+  
+  @media print
+      {
+      a[href^="#fnref"], a.reversefootnote /* Pandoc, MultiMarkdown */
+          {
+          /* Don't display these at all in print since the arrow is only something to click on */
+          display: none;
+          }
+      }
+      
+  div.footnotes /* Pandoc footnotes div at end of the document */
+      {
+      }
+      
+  div.footnotes li[id^="fn"] /* A footnote item within that div */
+      {
+      }
+  
+  /* You can class stuff as "noprint" to not print. 
+     Useful since you can't set this media conditional inside an HTML element's 
+     style attribute (I think), and you don't want to make another stylesheet that 
+     imports this one and adds a class just to do this.
+  */
+  
+  @media print
+      {
+      .noprint
+          {
+          display:none;
+          }
+      }
+  
+  </style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Bitcoin for Regulators</h1>
+<h2 class="author">Education Committee of the Bitcoin Foundation</h2>
+</div>
+<p><em>An executive summary of how Bitcoin works and how it might interact with existing regulatory structures</em></p>
+<p><strong>Bitcoin is a Computer Protocol:</strong></p>
+<p>Bitcoin is a computer protocol (software that lets computers talk to each other) that enables a peer-to-peer digital payment system. The system has no central authority or issuer. There is no “Bitcoin Corp.” that administers the system. Instead, individual computers around the world running full versions of the Bitcoin software settle and confirm transactions. In doing so, they create and store in the public record a database of all Bitcoin transactions. Anyone in the world can download the software and instantly send or receive bitcoins in a matter of minutes.</p>
+<p>Bitcoin transactions are irreversible, no-fee or very low-fee (a fraction of a penny) and nearly instantaneous.</p>
+<p><strong>Bitcoin Interacts with Existing Regulations:</strong></p>
+<ul>
+<li><p>Bitcoin is not recognized by the U.S. or any foreign government as legal tender.</p></li>
+<li><p>Bitcoin is a decentralized, peer-to-peer system where bitcoins are sent directly from one person to another over a network of computers, without requiring a third party money transmitter or bank.</p></li>
+<li><p>Bitcoin is not a check, and does not involve any document or writing.</p></li>
+<li><p>Bitcoin is not an instrument or device for the payment or transmission of monetary value; like a dollar or a peso, it is itself the monetary value.</p></li>
+<li><p>Bitcoin does not obligate any third party to pay its value to its holder; Bitcoin itself is the payment and value.</p></li>
+<li><p>Bitcoin is not a stored value device; it is not a card or other tangible object, and no party besides the holder of bitcoin himself stores any value.</p></li>
+<li><p>Bitcoin is a “push” system, unlike bank accounts and credit cards, which are “pull” systems that can be debited without the owner’s knowledge or permission.</p></li>
+<li><p>Bitcoin transactions do not require providing any personally identifying information that hackers can steal or marketers can appropriate.</p></li>
+</ul>
+<p><strong>Bitcoin Matters:</strong></p>
+<p>At the time of this letter, the value of bitcoins world-wide is already into the billions of dollars. Millions of people are already using Bitcoin for hundreds of thousands of financial transactions daily. This type of volume and growth open exciting new opportunities and also present new challenges.</p>
+<p><strong>Governments are Understanding Bitcoin:</strong></p>
+<p>Domestically, FinCEN has issued one piece of guidance and published two additional rulings on Bitcoin, which is categorized as a “decentralized convertible virtual currency”. The federal Government Accountability Office has spoken on Bitcoin and released a report on its merits and the challenges it creates for government. A federal court in Texas has ruled that Bitcoin is “money” for the purposes of the Securities Act. Internationally over a dozen foreign governments have issued guidance on the use of Bitcoin.</p>
+<p><strong>Bitcoin Myths and Realities:</strong></p>
+<p><em>Myth</em>: Bitcoin is a currency.</p>
+<p><em>Reality</em>: Bitcoin is a computer protocol: a piece of software that lets computers talk to each other. A currency is only one way people can use that computer protocol - just like email is one way to use TCP/IP, the computer protocol that lets computers access the internet.</p>
+<p><em>Myth</em>: Bitcoin is untraceable and anonymous.</p>
+<p><em>Reality</em>: The Bitcoin protocol is identity-neutral. Parties to a bitcoin transaction can require as much or as little identifying information from each other as they like. Even when they require no information, though, the protocol ensures that all transactions are recorded and made available on a public ledger.</p>
+<p><em>Myth</em>: Bitcoin is mostly used by terrorists, money launderers and other criminals</p>
+<p><em>Reality</em>: FinCEN has stated publicly that criminals generally prefer cash, which is untraceable.</p>
+<p><em>Myth</em>: The Bitcoin industry is not willing to work with regulators.</p>
+<p><em>Reality</em>: A vocal minority of businesses oppose all regulation on philosophical grounds, but most business operators welcome certainty in their regulatory environment. The Bitcoin Foundation, in particular, is committed to regulatory outreach.</p>
+<p><em>Myth</em>: Bitcoins are so expensive (several hundred dollars each at the time of this writing) that only the wealthy can afford them.</p>
+<p><em>Reality:</em> A unit of bitcoin can currently be subdivided down to 1/100,000,000<sup>th</sup>, and with a minor modification to the software, even smaller than that. There is no need to transact with an entire bitcoin.</p>
+<p><em>Myth</em>: Bitcoin is a Ponzi scheme because bitcoins have no intrinsic value.</p>
+<p><em>Reality</em>: Bitcoins are the first form of money that is also its own payment system. The value of that payment system is difficult to overstate.</p>
+</body>
+</html>
