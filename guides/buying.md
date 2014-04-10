@@ -17,7 +17,7 @@ The most expedient and authentic way to purchase bitcoins is through peer to pee
 
     1. Brokerages, such as Coinbase.com in the United States, are a fast and convenient way to buy and sell bitcoins. Brokerages act as a middleman, buying bitcoin in bulk and selling them to customers. Brokerages charge a fee for this service
 
-    2. Exchanges, such as BitStamp, Mt.Gox, and BTC-E, offer direct buying and selling between currencies. Once funded, exchanges allow for quick buying and selling within the platform. Trading fees may be low, but converting funds to and from bank accounts may be expensive and take considerable time.
+    2. Exchanges, such as BitStamp, and BTC-E, offer direct buying and selling between currencies. Once funded, exchanges allow for quick buying and selling within the platform. Trading fees may be low, but converting funds to and from bank accounts may be expensive and take considerable time.
 
 2. **Funding**
 
