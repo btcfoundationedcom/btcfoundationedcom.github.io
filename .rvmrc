@@ -1,7 +1,0 @@
-rvm use 1.9.3
-git config --global --unset-all user.name
-git config --global --unset-all user.email
-git config --global user.name "Nikos Bentenitis"
-git config --global user.email "nikos.bentenitis@gmail.com"
-sed -i '4d' ~/.ssh/config
-sed -i "4i\  IdentityFile ~/.ssh/nikosbentenitis" ~/.ssh/config
