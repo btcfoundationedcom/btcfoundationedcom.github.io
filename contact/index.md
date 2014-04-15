@@ -13,5 +13,7 @@ You will receive instructions on how to participate on weekly committee calls an
 Sincerely,
 
 Nikos Bentenitis
+
 Chair, Education Committee
+
 Bitcoin Foundation
