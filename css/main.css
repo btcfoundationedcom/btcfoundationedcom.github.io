@@ -396,7 +396,6 @@ footer .widget h4 {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: url(../img/demo/header_bg.png) center 0px fixed no-repeat;
     display: block;
     z-index: 0;
   }
