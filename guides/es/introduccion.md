@@ -1,7 +1,7 @@
 % Introducción a Bitcoin
 % Comisión de Educación de la Fundación Bitcoin
 
-** ¿Qué es Bitcoin, y por qué me debe importar? **
+**¿Qué es Bitcoin, y por qué me debe importar?**
 
 Cuando la mayoría de las personas conocen Bitcoin, el primero que preguntan es " ¿Qué es? " Esta guía proporciona una respuesta concisa a esta pregunta y explica algunos de los términos que por lo general se oyen en relación con Bitcoin.
 
@@ -9,9 +9,9 @@ Para efectos prácticos, Bitcoin puede ser pensado como sólo dos cosas: ( 1 ) U
 
 Pero, ¿por qué el mundo necesita otra moneda y otra red de pago? Para responder a esta pregunta, tenemos que ver cómo bitcoin difiere de las monedas existentes y cómo se diferencia de Bitcoin redes de pago existentes.
 
-La moneda bitcoin ** ** es exclusivamente digital. No se emite o respaldada por un gobierno, organización o empresa. Nunca habrá más de 21 millones de bitcoins, y los aumentos de la oferta monetaria con una tasa predefinida y disminuyendo hasta alcanzar su límite. Esas características son casi completamente antitética respecto a los de las monedas locales. Por ejemplo, el dólar de EE.UU. tiene una forma física ( las cuentas de dólar ), es emitido y respaldado por el banco central de los Estados Unidos, no hay límite a la cantidad de dólares jamás existir, y la tasa de generación o "impresión" de dólares es desconocida.
+La moneda bitcoin es exclusivamente digital. No se emite o respaldada por un gobierno, organización o empresa. Nunca habrá más de 21 millones de bitcoins, y los aumentos de la oferta monetaria con una tasa predefinida y disminuyendo hasta alcanzar su límite. Esas características son casi completamente antitética respecto a los de las monedas locales. Por ejemplo, el dólar de EE.UU. tiene una forma física ( las cuentas de dólar ), es emitido y respaldado por el banco central de los Estados Unidos, no hay límite a la cantidad de dólares jamás existir, y la tasa de generación o "impresión" de dólares es desconocida.
 
-La red Bitcoin ** ** es una red descentralizada de peer -to-peer de ordenador, en los cuales las computadoras pueden intercambiar información entre sí sin la mediación de un servidor central. Por tanto, la red Bitcoin es neutral porque ningún ordenador central puede no permita otro equipo para formar parte de la red. La seguridad de los mensajes intercambiados en la red Bitcoin está garantizada por el uso de la criptografía de clave pública, y la validez de las transacciones está garantizada por los cálculos matemáticos duros que los equipos de la red tienen que realizar en un proceso llamado " la minería. " Finalmente, los costos de transacción en la red Bitcoin son gratuitos o muy baja.
+La red Bitcoin es una red descentralizada de peer-to-peer de ordenador, en los cuales las computadoras pueden intercambiar información entre sí sin la mediación de un servidor central. Por tanto, la red Bitcoin es neutral porque ningún ordenador central puede no permita otro equipo para formar parte de la red. La seguridad de los mensajes intercambiados en la red Bitcoin está garantizada por el uso de la criptografía de clave pública, y la validez de las transacciones está garantizada por los cálculos matemáticos duros que los equipos de la red tienen que realizar en un proceso llamado " la minería. " Finalmente, los costos de transacción en la red Bitcoin son gratuitos o muy baja.
 
 Ahora vamos a comparar la red Bitcoin con SWIFT, la red de pago utilizado por muchos bancos en el mundo. La red SWIFT depende de un número selecto de servidores de un ordenador y es una red centralizada. De manera similar a la red Bitcoin, los mensajes en la red SWIFT están garantizados por la criptografía, pero las transacciones son validadas por una base de datos central. Por último, las transacciones en la red SWIFT puede ser bastante costoso.
 
@@ -36,14 +36,14 @@ Por último, tenga en cuenta que Bitcoin es una nueva tecnología que puede tene
 
 Así que prepárate para el futuro aprendiendo más acerca de Bitcoin. Usted puede comenzar a aprender el significado de algunos términos importantes que se incluyen en las preguntas más frecuentes a continuación:
 
-** ¿Qué es una dirección Bitcoin? **
+**¿Qué es una dirección Bitcoin?**
 
 Una dirección Bitcoin es similar a los números de cuenta en un banco. Puede enviar bitcoins dinero a cualquier dirección, al igual que usted puede enviar dinero a cualquier cuenta bancaria si usted sabe su número, y sólo se puede gastar bitcoins desde una dirección que usted controla. Usted controla su dirección Bitcoin por una clave secreta, llamada la clave privada. A diferencia de una cuenta en un banco, sin embargo, usted puede fácilmente tener tantas direcciones de Bitcoin como desee.
 
-** ¿Qué es un Bitcoin Wallet? **
+**¿Qué es un Bitcoin Wallet?**
 
 Una billetera Bitcoin es un programa informático que contiene las claves privadas de sus direcciones de Bitcoin y hace que las transferencias hacia y desde esas direcciones fáciles y seguras. Una cartera también le muestra el equilibrio de todos los bitcoins que existen en el Bitcoin aborda lo que contiene. Debe proteger su cartera con una contraseña segura y asegurarse de que nadie más tiene acceso a ella. Esto es muy importante y tiene que ser repetido : Nunca se debe dar a conocer la clave privada asociada a una dirección Bitcoin! Si usted permite que otra persona hacerse con una clave privada, se les permitirá pasar sus Bitcoins desde su dirección bitcoin. Es un poco de miedo a darse cuenta de esto, pero una vez que lo haces no es gran cosa ; sólo proteger las claves mediante la encriptación de ellos, algo que su cartera hace conveniente.
 
-** ¿Cuál es el trato con la criptografía y la seguridad? **
+**¿Cuál es el trato con la criptografía y la seguridad?**
 
 Usted puede leer un montón de descripciones acerca de Bitcoin que mencionan la criptografía, las funciones hash, públicas y claves privadas y todo tipo de términos que suenan muy geek. Para empezar, lo único que realmente necesita entender es que Bitcoin funciona y sus bitcoins son seguros gracias a las matemáticas complicadas. Esta matemática complicada le permite hacer negocios y dinero intercambio con la gente en el Internet que usted no conoce y que no confía necesariamente. Y eso es una cosa realmente genial!
