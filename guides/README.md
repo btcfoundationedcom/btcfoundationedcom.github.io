@@ -1,17 +1,56 @@
-# Guides of the Education Committee of the Bitcoin Foundation 
+Best-Practices Guides
+---------------------
 
-You will need to have the following programs installed on your computer:
+The following guides were created by the members of the education
+committee during the past few months. Please use the links to share it
+with your networks and promote the work of the committee.
 
-- Pandoc
-- XeLaTeX
+-   **Introduction to Bitcoin**
 
-## Create pdf version
+| English  | Spanish | Italian |
+| -------- | ------- | ------- |
+| [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/introduction.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/introduccion.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/introduzione.md)  |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/introduction_letter.pdf)  |   |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/introduction_a4.pdf)          |   |   |
+| [html](http://btcfoundationedcom.github.io/guides/introduction.html)                    |   |   |
 
-	pandoc -V papersize:"letterpaper" -V fontsize:"12pt" --template templates/foundation.latex intoduction.md --latex-engine=xelatex -o introduction_letter.pdf
+-   **Bitcoin for Regulators**
 
-	pandoc -V papersize:"a4paper" -V fontsize:"12pt" --template templates/foundation.latex intoduction.md --latex-engine=xelatex -o introduction_a4.pdf
+| English  | Spanish | Italian |
+| -------- | ------- | ------- |
+| [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/regulators.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/reguladores.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/regolatori.md)  |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/regulators_letter.pdf)  |   |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/regulators_a4.pdf)  |   |   |
+| [html](http://btcfoundationedcom.github.io/guides/regulators.html)  |   |   |
 
+-   **Selecting a Wallet and Protecting your Bitcoins**
 
-## Create html version
+| English  | Spanish | Italian |
+| -------- | ------- | ------- |
+| [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/security.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/seguridad.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/sicurezza.md)  |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/security_letter.pdf)  |   |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/security_a4.pdf)  |   |   |
+| [html](http://btcfoundationedcom.github.io/guides/security.html)  |   |   |
 
-	pandoc -s -S --toc -H templates/foundation.css intoduction.md -o introduction.html
+-   **Best Practices for Buying Bitcoin: Exchanges and Brokerages**
+
+| English  | Spanish | Italian |
+| -------- | ------- | ------- |
+| [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/buying.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/compra.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/acquisto.md)  |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/buying_letter.pdf)  |   |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/buying_a4.pdf)  |   |   |
+| [html](http://btcfoundationedcom.github.io/guides/buying.html)  |   |   |
+
+-   **Best Practices for Businesses**
+
+| English  | Spanish | Italian |
+| -------- | ------- | ------- |
+| [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/businesses.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/empresas.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/imprese.md)  |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/businesses_letter.pdf)  |   |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/businesses_a4.pdf)  |   |   |
+| [html](http://btcfoundationedcom.github.io/guides/businesses.html)  |   |   |
+
+-   **A Technical Guide for Non-Technical Users**
+
+    - [PDF, letter size](http://btcfoundationedcom.github.io/guides/BTCHandout2NonTech.pdf)
+    - [Apple Pages source](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/BTCHandout2NonTech.pages)
