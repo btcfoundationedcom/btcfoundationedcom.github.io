@@ -11,4 +11,4 @@ Despues que hayas adquirido tus bitcoins, y quieras cambiarlos por tu moneda loc
 
 Pudiese ser prudente enviar varias órdenes de compras, en vez de una orden grande. En cada compra, verificala pasando los bitcoins desde la casa de cambio a tu cartera privada. Solamente cuando una transacción es verificada en tu cartera privada, inicia la siguiente compra con la casa de cambio. 
 
-La manera mas conveniente y autentica de comprar bitcoins is por medio de una transacción de cara a cara. La plaza Satoshi es una forma de reunion donde los usuario de Bitcoin realizan transacciones de persona a persona sin necesidad de una casa de cambio o valores, así permitiendo a los usuarios recibir sus coins en el momento. 
+La manera mas conveniente y autentica de comprar bitcoins es por medio de una transacción de cara a cara. La plaza Satoshi es una forma de reunion donde los usuario de Bitcoin realizan transacciones de persona a persona sin necesidad de una casa de cambio o valores, así permitiendo a los usuarios recibir sus coins en el momento. 
