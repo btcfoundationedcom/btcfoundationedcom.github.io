@@ -14,4 +14,9 @@ Pudiese ser prudente enviar varias órdenes de compras, en vez de una orden gran
 
 La manera mas conveniente y autentica de comprar bitcoins es por medio de una transacción de cara a cara. La plaza Satoshi es una forma de reunion donde los usuario de Bitcoin realizan transacciones de persona a persona sin necesidad de una casa de cambio o valores, así permitiendo a los usuarios recibir sus coins en el momento. LocalBitcoins, Craigslist y Bitcoin IRC son también excelentes opciones. Si tu preferencia es hacerlo mediante corredores o una casa de cambio, tienes múltiples opciones.
 
+  1. Casa de Cambio vs Firma de Corretaje
+    
+    1. Las firmas de corretaje tales como Coinbase.com en los Estados Unidos, son una rápida y conveniente forma de comprar y vender bitcoins. Las firmas de corretajes actúan de intermediario, comprando bitcoins en grandes volúmenes y vendiéndolos a sus clientes. Estas firmas de corretaje cobran una cuota por el servicio.  
+    2. Las casas de cambios, como Bitstamp, BTC-E, ofrecen una compra y venta directa entre las monedas. Una vez financiado, las casas permiten una rápida compra y venta en la plataforma. Los costos de compraventa pueden ser bajos, pero convertir los fondos desde o hacia una cuenta bancaria puede ser costoso y lleva un tiempo considerable. 
+
 
