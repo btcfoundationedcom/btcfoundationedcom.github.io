@@ -46,13 +46,14 @@ Insecure admins sometimes turn to temporary bans or full bans as a form of nepot
 The final point to be made here is on the topic of Security.  Wherever possible some sort of two-factor authentication should be employed to safeguard the account(s).  If this is not possible due to the number of persons who will need to have credentials to the account, it may make sense to use a service that can handle the 'team leader / contributor / collaboration' concepts in the context of social media teams.  When a contributor / participant voluntarily leaves the scene (is done contributing, moves on and is no longer contributing to social), the remaining team should convene and generate new password(s) (if that person had admin level privilege to the account(s)) so that the person or persons who have left the Education Committee social account team does not unexpectedly post to that account.  Whoever generates an account as the Education Committee undergoes expansion into different social fora is responsible for defense of that account and, if the account is lost to a hack or some other issue, making reasonable, polite, and non-litigious attempts to reclaim the account for the Education Committee's purposes.
 
 
-##### Current Social Media Accounts and Platforms Utilized by Bitcoin Foundation Education Committee
+#### Current Social Media Accounts and Platforms Utilized by Bitcoin Foundation Education Committee
 
 The following list will be modified or added to from time to time.
 
-Platform ~ Platform Link(s) ~ Account Name
-------------------------------------------
+Platform ~ Platform Link(s) ~ Account Name:
 
 Twitter ~ https://twitter.com/ ~ BFEduComm
+
 Diaspora ~ https://diasp.org/ ~ BFEduComm
+
 Facebook ~ https://www.facebook.com/ ~ https://www.facebook.com/groups/BFEduComm/ ~ BFEduComm
