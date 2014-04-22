@@ -50,9 +50,13 @@ Domestically, FinCEN has issued one piece of guidance and published two addition
 
 *Reality*: FinCEN has stated publicly that criminals generally prefer cash, which is untraceable.
 
-*Myth*: The Bitcoin industry is not willing to work with regulators.
+*Myth*: The Bitcoin community is chock full of anarchists, libertarians and other radicals!
 
-*Reality*:   Like any industry, the businessmen therein are as varied as the human race itself.  They are of all ages, and range widely in political, social, financial and economic beliefs and practices.  They include capitalists, dedicated socialists, and communists.  This is a natural result of Bitcoin being a worldwide happening, and people live where ever they live, in many different types of societies. Most business operators welcome certainty in their regulatory environment. The Bitcoin Foundation is committed to a reasonable level of regulatory outreach.
+*Reality*:   Like any industry, the businessmen therein are as varied as the human race itself.  They are of all ages, and range widely in political, social, financial and economic beliefs and practices.  They include capitalists, dedicated socialists, and communists.  This is a natural result of Bitcoin being a worldwide happening, and people live where ever they live, in many different types of societies. 
+
+*Myth*:  The Bitcoin industry is not willing to work with regulators.
+
+*Reality*:  Most business operators welcome certainty in their regulatory environment. The Bitcoin Foundation is committed to a reasonable level of regulatory outreach.
 
 *Myth*: Bitcoins are so expensive (several hundred dollars each at the time of this writing) that only the wealthy can afford them.
 
