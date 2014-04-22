@@ -24,19 +24,17 @@ Bitcoin transactions are irreversible, no-fee or very low-fee (a fraction of a p
 
 - Bitcoin does not obligate any third party to pay its value to its holder; Bitcoin itself is the payment and value.
 
-- Bitcoin is not a stored value device; it is not a card or other tangible object, and no party besides the holder of bitcoin himself stores any value.
-
 - Bitcoin is a “push” system, unlike bank accounts and credit cards, which are “pull” systems that can be debited without the owner’s knowledge or permission.
 
 - Bitcoin transactions do not require providing any personally identifying information that hackers can steal or marketers can appropriate.
 
 **Bitcoin Matters:**
 
-At the time of this letter, the value of bitcoins world-wide is already into the billions of dollars. Millions of people are already using Bitcoin for hundreds of thousands of financial transactions daily. This type of volume and growth open exciting new opportunities and also present new challenges.
+At the time of this letter, the value of bitcoins world-wide is in the billions of dollars. Millions of people are using Bitcoin for hundreds of thousands of financial transactions daily. 
 
 **Governments are Understanding Bitcoin:**
 
-Domestically, FinCEN has issued one piece of guidance and published two additional rulings on Bitcoin, which is categorized as a “decentralized convertible virtual currency”. The federal Government Accountability Office has spoken on Bitcoin and released a report on its merits and the challenges it creates for government. A federal court in Texas has ruled that Bitcoin is “money” for the purposes of the Securities Act. Internationally over a dozen foreign governments have issued guidance on the use of Bitcoin.
+Domestically, FinCEN has issued one piece of guidance and published two additional rulings on Bitcoin, which is categorized as a “decentralized convertible virtual currency”. The Federal Government Accountability Office has spoken on Bitcoin and released a report on its merits and the challenges it creates for government. A federal court in Texas has ruled that Bitcoin is “money” for the purposes of the Securities Act. Internationally over a dozen foreign governments have issued guidance on the use of Bitcoin.
 
 **Bitcoin Myths and Realities:**
 
@@ -54,13 +52,13 @@ Domestically, FinCEN has issued one piece of guidance and published two addition
 
 *Myth*: The Bitcoin industry is not willing to work with regulators.
 
-*Reality*: A vocal minority of businesses oppose all regulation on philosophical grounds, but most business operators welcome certainty in their regulatory environment. The Bitcoin Foundation, in particular, is committed to regulatory outreach.
+*Reality*:   Like any industry, the businessmen therein are as varied as the human race itself.  They are of all ages, and range widely in political, social, financial and economic beliefs and practices.  They include capitalists, dedicated socialists, and communists.  This is a natural result of Bitcoin being a worldwide happening, and people live where ever they live, in many different types of societies. Most business operators welcome certainty in their regulatory environment. The Bitcoin Foundation is committed to a reasonable level of regulatory outreach.
 
 *Myth*: Bitcoins are so expensive (several hundred dollars each at the time of this writing) that only the wealthy can afford them.
 
-*Reality:* A unit of bitcoin can currently be subdivided down to 1/100,000,000^th^, and with a minor modification to the software, even smaller than that. There is no need to transact with an entire bitcoin.
+*Reality:* A unit of bitcoin can currently be subdivided down to 1/100,000,000^th^, and with a minor modification to the software, even smaller than that. There is no need to transact with an entire bitcoin.  Bitcoin is fungible.
 
 
 *Myth*: Bitcoin is a Ponzi scheme because bitcoins have no intrinsic value.
 
-*Reality*: Bitcoins are the first form of money that is also its own payment system. The value of that payment system is difficult to overstate.
+*Reality*: Bitcoins are the first form of money that is also its own payment system. In the singular transaction, the value of that payment system varies by transaction style, size, and geographical distance.  In the aggregate of transactions, that value is considerable.  Certainly this is a refutation of the "Ponzi scheme" allegation.
