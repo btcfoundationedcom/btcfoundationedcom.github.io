@@ -1,7 +1,7 @@
 % Best Practices for Buying Bitcoin: Exchanges and Brokerages
 % Education Committee of the Bitcoin Foundation
 
-**Audience** This guide is intended for those who are familiar with Bitcoin basics and are interested in learning how to buy bitcoins. Trading stuff for bitcoins is covered elsewhere, and if you are so lucky as to have a gift of bitcoin, you need no guide.  This is about the exchange of paper money of any number of countries for the international, yet nation less currency, bitcoin.
+**Audience**: This guide is intended for those who are familiar with Bitcoin basics and are interested in learning how to buy bitcoins. Trading stuff for bitcoins is covered elsewhere, and if you are so lucky as to have a gift of bitcoin, you need no guide.  This is about the exchange of paper money of any number of countries for the international, yet nation less currency, bitcoin.
 
 Two services used to buy bitcoins are a "brokerage" or “exchange”.  In both cases however the idea is to "fund" your account on the service, then purchase some bitcoins, and finally be able to withdraw money from that service back into your native currency. Each of these actions are distinct steps in the process, sometimes occurring instantly and sometimes taking a several days. 
 
