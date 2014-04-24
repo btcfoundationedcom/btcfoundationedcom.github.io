@@ -5,13 +5,13 @@
 
 Two services used to buy bitcoins are a "brokerage" or “exchange”.  In both cases however the idea is to "fund" your account on the service, then purchase some bitcoins, and finally be able to withdraw money from that service back into your native currency. Each of these actions are distinct steps in the process, sometimes occurring instantly and sometimes taking a several days. 
 
-Typically, you need to create an account on a brokerage or exchange service and then, in some cases, link a bank account to the service. These services usually offer several mechanisms to fund the account, via direct linkage to bank account, a wire transfer or other third party fund transfers. After your account is funded you then perform the actual bitcoin purchase (or exchange from another currency). This sometimes occurs nearly instantaneously and sometimes takes a few days, it all depends on the specifics of the service. 
+Typically, you need to create an account on a brokerage or exchange service and then, in some cases, link a bank account to the service. These services usually offer several mechanisms to fund the account, via direct linkage to a bank account, a wire transfer or other third party fund transfers. After your account is funded you then perform the actual bitcoin purchase (or exchange from another currency). This sometimes occurs nearly instantaneously and sometimes takes a few days, it all depends on the specifics of the service. 
 
-After you've acquired your bitcoins and want to trade in for some type of local currency, you must sell the bitcoin and have those funds deposited in your bank account. This also usually takes some number of days as the transaction must go through the traditional banking system. It would be a good practice to undertake the entire funding, purchase and withdraw process with a small amount of currency to test the process before you use a large sum of money.  In fact if you are hesitant about the process, try it out with a ridiculously small amount of money. Learn about this new technology, but at minimal cost.
+After you've acquired your bitcoins and want to trade for some type of local currency, you must sell the bitcoin and have those funds deposited in your bank account. This also usually takes some number of days as the transaction must go through the traditional banking system. It would be a good practice to undertake the entire funding, purchase and withdrawal process with a small amount of currency to test the process before you use a large sum of money.  In fact if you are hesitant about the process and you should be the first time, try it out with a ridiculously small amount of money. Learn about this new technology, but at minimal cost.
 
 It may also be wise to send a series of purchase requests, instead of one large one.  At each step verify that the bitcoins were purchased by moving them out of the exchange into your private wallet.  Only when they are verified in your private wallet, initiate the next purchase with the exchange.  When you move bitcoin from the exchange to your private wallet, that's when you start to truly own them.  
 
-The most expedient and authentic way to purchase bitcoins is through peer to peer transaction. Satoshi’s Square, a meeting format where Bitcoin users transact person to person without an exchange or brokerage, allows Bitcoin users to receive coins on the spot. LocalBitcoins, Craigslist, and Bitcoin IRC are also great options. If you would rather work through a brokerage or exchange, you have multiple options. 
+The most expedient and authentic way to purchase bitcoins is through a peer to peer transaction. Satoshi’s Square, a meeting format where Bitcoin users transact person to person without an exchange or brokerage, allows Bitcoin users to receive coins on the spot. LocalBitcoins, Craigslist, and Bitcoin IRC are also great options to connect with other Bitcoin users. If you would rather work through a brokerage or exchange, you have multiple options. 
 
 1. **Brokerage vs Exchange**
 
@@ -63,7 +63,7 @@ The most expedient and authentic way to purchase bitcoins is through peer to pee
 
 4. **Security**
 
-    1. Ensure 2-Factor Authentication is a feature offered by the chosen brokerage or exchange. 
+    1. Ensure that 2-Factor Authentication (2FA) is a feature offered by the chosen brokerage or exchange. 
 
     2. Consider Risk Capital, Crypto Risk Capital, and Capital Gains implications. 
 
