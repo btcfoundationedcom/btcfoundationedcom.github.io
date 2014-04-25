@@ -19,4 +19,20 @@ La manera mas conveniente y autentica de comprar bitcoins es por medio de una tr
     1. Las firmas de corretaje tales como Coinbase.com en los Estados Unidos, son una rápida y conveniente forma de comprar y vender bitcoins. Las firmas de corretajes actúan de intermediario, comprando bitcoins en grandes volúmenes y vendiéndolos a sus clientes. Estas firmas de corretaje cobran una cuota por el servicio.  
     2. Las casas de cambios, como Bitstamp, BTC-E, ofrecen una compra y venta directa entre las monedas. Una vez financiado, las casas permiten una rápida compra y venta en la plataforma. Los costos de compraventa pueden ser bajos, pero convertir los fondos desde o hacia una cuenta bancaria puede ser costoso y lleva un tiempo considerable. 
 
+  2. Financiamiento
+ 
+    1. Firmas de correjate
+ 
+     1. Cámara de Compensación Automatizada (ACH) es el sistema de financiamiento mas común de firmas de corretaje en los Estados Unidos. 
+      1. Las cuentas de corretaje de Bitcoin estan enlazadas a una cuenta de moneda local, y los fondos pueden ser depositados y retirados. 
+      2. Las transacciones típicamente toman entre 2 a 5 días para completarse. 
+      3. Un pequeño pago de ACH puede estar incluido en cada transacción. 
+      
+     2. Tarjetas de credito: Pueden ser usadas como un metodo adicional de verificación, permitiendo compras el mismo día mientas usando ACH. 
+     
+    2. Casas de Cambio
+      
+      1. Ordenes de Pago: las ordenes de pago pueden ser enviados a las casas de cambios. 
+      2. Servicios basados en la Web: Los servicios tales como PerfectMoney, Interkasam, Payeer.com, pueden ser usados para financiar una cuenta. 
+      3. Referencias: En algunas casas de cambio, los usuarios pueden transferir fondos a otros usuarios. Enlaces de referimientos pueden ser distribuidos a potenciales nuevos usuarios. 
 
