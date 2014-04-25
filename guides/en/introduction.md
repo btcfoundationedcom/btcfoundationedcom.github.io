@@ -20,7 +20,7 @@ Now you know that :
 
 - The bitcoin currency is exclusively digital, independent of any central issuing authority, borderless, with a money supply that is limited and predetermined.
 
-- The Bitcoin network is a decentralized, neutral, peer-to-peer computer network which is secured by cryptography and charges zero or small fees.
+- The Bitcoin network is a decentralized, neutral, peer-to-peer computer network which is secured by cryptography and charges zero or tiny fees.
 
 
 Now, let's consider a few cases where bitcoin and the Bitcoin network is superior to existing currencies and payment networks.
@@ -29,22 +29,22 @@ Now, let's consider a few cases where bitcoin and the Bitcoin network is superio
 
 - If you have savings and you are worried that your government might confiscate some of it, like the government of Cyprus did in March of 2013, you could transfer a portion of your savings into bitcoin to protect it.
 
-- Using the Bitcoin network you can exchange bitcoins with people you have never met and whom you do not necessarily trust, while being absolutely sure that your bitcoins will end up with the rightful owner. And all that without the need for a bank to act as an intermediary.
+- Using the Bitcoin network you can exchange bitcoins with people you have never met while being absolutely sure that your bitcoins will end up with the rightful owner. And all that without the need for a bank to act as an intermediary.
 
 - Remittances, payments usually sent by a family member living in another country back to family in the home country, can have large transaction costs. Bitcoin allows such payments with much lower fees.
 
-Finally, keep in mind that Bitcoin is a new technology that may have many new applications in the future. Similar to the way that the Internet in the early 1990s was considered almost synonymous to email, Bitcoin today is considered, by most, synonymous to the Bitcoin payment network and the bitcoin currency. But the same way that the Internet today is not just email but also the World Wide Web, Internet video and telephony, Bitcoin tomorrow will be much more than it is today.
+Finally, keep in mind that Bitcoin is a new technology that may have many new applications in the future. Similar to the way that the Internet in the early 1990s was considered almost synonymous to email, Bitcoin today is considered, by most, synonymous to the Bitcoin payment network and the bitcoin currency. But the same way that the Internet today is not just email but also the World Wide Web, Internet video and telephony, Bitcoin tomorrow will be more than it is today.
 
 So prepare for the future by learning more about Bitcoin. You can start by learning the meaning of a few important terms that are included in the frequently asked questions below:
 
 
 **What is a Bitcoin Address?**
 
-A Bitcoin address is similar to the account numbers in a bank. You can send bitcoins (the currency) to any address, just like you can send cash to any bank account if you know its number, and you can only spend bitcoins from an address that you control. You control your Bitcoin address by a secret key, called the private key. Unlike an account in a bank though, you can easily have as many Bitcoin addresses as you wish.
+A Bitcoin address is similar to the account numbers in a bank. You can send money bitcoins to any address, just like you can send cash to any bank account if you know its number, and you can only spend bitcoins from an address that you control. You control your Bitcoin address by a secret key, called the private key. Unlike an account in a bank though, you can easily have as many Bitcoin addresses as you wish.
 
 **What is a Bitcoin Wallet?**
 
-A Bitcoin wallet is a very general term meaning a piece of software running on the Web, a Mac or PC, IOS or Adroid, which enables transactions with the Bitcoin protocal.  In simple terms a Bitcoin wallet is a piece of software that is a convenience for the bitcoin user that manages the multiple address a user "holds".   The software typically shows the balance of all bitcoins that exist related to the Bitcoin addresses it holds.  Beyond that general statement, wallets vary widely.  They may or may not provide you with your own private keys, for example.  However a wallet is often the most important piece of user facing software that you must interact with for acquiring and spending bitcoins. Wallet software technology and features are undergoing many changes so check out several wallets until you find one you are comfortable with.
+A Bitcoin wallet is a very general term meaning a piece of software running on the Web, a Mac or PC, IOS or Adroid, which enables transactions with the Bitcoin protocal.    The software typically shows the balance of all bitcoins that exist related to the Bitcoin addresses it holds.  Beyond that general statement, wallets vary widely.  They may or may not provide you with your own private keys, for example.  
 
 **What is Wallet security?**
 You should protect your wallet with a strong password and make sure nobody else has access to it. This is very important and it has to be repeated: You should never give out the private key associated with a Bitcoin address! If you let someone else get hold of a private key, they will be allowed to spend your Bitcoins from your bitcoin address. It’s a little scary to realize this, but once you do it’s no big deal; just protect the keys by encrypting them, something that your wallet makes convenient.
