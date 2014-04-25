@@ -264,6 +264,10 @@ BoldItalicFont=Lato-BoldItalic.ttf]
 %%%
 
 \begin{document}
+\begin{center}
+\includegraphics[height=8ex]{./images/bitcoin-foundation-logo.pdf}
+\end{center}
+
 $if(title)$
 \maketitle
 $endif$

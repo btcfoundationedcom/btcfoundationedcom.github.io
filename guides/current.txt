@@ -1,0 +1,7 @@
+./en/businesses.md
+./en/buying.md
+./en/introduction.md
+./en/regulators.md
+./en/security.md
+./es/compra.md
+./it/introduzione.md

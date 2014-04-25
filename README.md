@@ -18,4 +18,5 @@ You will receive instructions on how to participate on weekly committee calls an
 
 Best,
 
-Nikos Bentenitis, Chair
+Nikos Bentenitis, Chair of the Education Committee
+

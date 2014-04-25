@@ -1,6 +1,5 @@
-Mejores Prácticas para la Comprar de Bitcoin: Casas de Cambios y Firma de Correjate
-
-Comisión de Educación de la Fundación Bitcoin
+% Mejores Prácticas para la Comprar de Bitcoin: Casas de Cambios y Firma de Correjate
+% Comisión de Educación de la Fundación Bitcoin
 
 **Audiencia**: Esta guía va destinada a todos aquellos que se encuentran familiarizados con los principios de Bitcoin y estan interesados en como comprarlos. 
 
