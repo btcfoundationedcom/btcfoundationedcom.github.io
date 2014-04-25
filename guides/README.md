@@ -10,8 +10,8 @@ with your networks and promote the work of the committee.
 | English  | Spanish | Italian |
 | -------- | ------- | ------- |
 | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/introduction.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/introduccion.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/introduzione.md)  |
-| [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/introduction_letter.pdf)  |   |   |
-| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/introduction_a4.pdf)          |   |   |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/introduction_letter.pdf)  |   | [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/introduzione_letter.pdf)  |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/introduction_a4.pdf)          |   |  [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/introduzione_a4.pdf) |
 
 -   **Bitcoin for Regulators**
 
@@ -34,8 +34,8 @@ with your networks and promote the work of the committee.
 | English  | Spanish | Italian |
 | -------- | ------- | ------- |
 | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/buying.md)   |  [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/es/compra.md) | [Source/Edit](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/it/acquisto.md)  |
-| [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/buying_letter.pdf)  |   |   |
-| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/buying_a4.pdf)  |   |   |
+| [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/buying_letter.pdf)  | [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/compra_letter.pdf)  |   |
+| [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/buying_a4.pdf)  | [PDF, A4 size](http://btcfoundationedcom.github.io/guides/pdf/compra_a4.pdf)  |   |
 
 -   **Best Practices for Businesses**
 
