@@ -1,4 +1,4 @@
-# Building Bitcoin's Human Network - A Plan for Creating, Connecting, Educating, and Activating Campus and Community Groups 
+# Building Bitcoin's Human Network - A Plan for Campus and Community Groups 
 
 Authors: Will Pangman, Pamela Morgan, Nikos Bentenitis
 
