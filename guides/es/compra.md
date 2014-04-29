@@ -34,4 +34,22 @@ La manera mas conveniente y autentica de comprar bitcoins es por medio de una tr
       1. Ordenes de Pago: las ordenes de pago pueden ser enviados a las casas de cambios. 
       2. Servicios basados en la Web: Los servicios tales como PerfectMoney, Interkasam, Payeer.com, pueden ser usados para financiar una cuenta. 
       3. Referencias: En algunas casas de cambio, los usuarios pueden transferir fondos a otros usuarios. Enlaces de referimientos pueden ser distribuidos a potenciales nuevos usuarios. 
+    
+  3. Retiros
+
+    1. Casa de Corretaje
+      1. ACH: Este es el mas común tipo de retiro de los sistemas de corretaje. 
+      2. Un pequeño pago puede ser incluido en la transaccion.
+      
+    2. Casa de Cambio
+      1. ACH: Algunas casas de cambio poseen ACH por un monto por transacción. 
+      2. Orden por USPS: Ordernes de pago pueden tener un fuerte precio. 
+      3. Transferencias bancarias Nacionales e Internacionales: Transferencias bancarias pueden ser iniciadas por un alto costo. 
+      4. Casas de cambio permiten enviar bitcoins a otras direcciones de otras carteras y la posibilidad de cambiar por otras monedas digitales. 
+      
+  4. Seguridad
+  
+    1. Asegurarse que el modo por Autenticación por Factor Múltiple es ofrecido por la Casa de Cambio o Casa de Corretaje.
+    2. Considerar Capital de riesgo, Crypto Risk Capital (Capital de Riesgo Cripto) e implicaciones de Plusvalía. 
+        
 
