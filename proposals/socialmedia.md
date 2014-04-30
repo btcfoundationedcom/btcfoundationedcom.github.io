@@ -1,5 +1,13 @@
 *Social Media Presence Proposal*
 
+*The following members have access to the committee's social media accounts*:
+
+1. Colin Galagher
+2. Will Pangman
+3. Nikos Bentenitis
+
+*If you would like to post to social media on behalf of the education committee, please contact nbentenitis@bitcoinfoundation.org.*
+
 ## Guidelines: Social Media Strategy and Presence for the Education Committee of the Bitcoin Foundation
 
 ### Three General Ideas: Details
