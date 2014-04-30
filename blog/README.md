@@ -1,0 +1,1 @@
+# Draft posts for the blog of the Bitcoin Foundation
