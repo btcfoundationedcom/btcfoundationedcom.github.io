@@ -45,6 +45,12 @@ For more detailed information:
 
 openssl version -a
 
+You can also list all available ciphers, as follows:
+
+openssl ciphers -v
+
+Other notes, the most current OpenSSL version and FAQ, and additional details are found [here](https://www.openssl.org/support/faq.html).
+
 Earlier in this guide Google Authenticator was mentioned. If you're using that, or another app intended to facilitate 
 two-factor authentication, check the app and make sure that:  1) it is up to date, 2) if it isn't, update it, 
 3) if it has codes to authorize you into [sites that are vulnerable to heartbleed](https://filippo.io/Heartbleed/), 
