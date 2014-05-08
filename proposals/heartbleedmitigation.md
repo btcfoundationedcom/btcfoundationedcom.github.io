@@ -37,6 +37,11 @@ If the text in your terminal tells you that you don't have curl, enter the comma
 install curl and then enter any password if necessary.  It will install curl.  When it's done, then go ahead and copy
 and paste the commands into the terminal [as shown here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) and then check for openssl version.
 
+Important Notes!
+
+If you are running the terminal commands shown above (for Mac / OSX, Debian / Ubuntu, or Fedora / CentOS) on or after May 5, 2014,
+be sure to also check again your OpenSSL version (see below):
+
 Some key commands from terminal to get you information you need about your openssl:
 
 openssl version
@@ -44,6 +49,8 @@ openssl version
 For more detailed information:
 
 openssl version -a
+
+If the version present does not match the most current OpenSSL version available (note that as of April 2014, the version shown as (1.0.1.g 7 Apr 2014) is the most current OpenSSL version), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/).
 
 You can also list all available ciphers, as follows:
 
