@@ -18,3 +18,5 @@ d. Education Committee Social media and the work being done by a few participant
 
 5. Committee recommendations being made and formally presented to the board of directors. 
 (which of course can lead to personal comments from each of them)
+
+
