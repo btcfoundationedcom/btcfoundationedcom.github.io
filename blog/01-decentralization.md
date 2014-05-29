@@ -16,7 +16,7 @@ listing of said documents, how they compliment the work of other committees and 
 
 d. Education Committee Social media and the work being done by a few participants. Including the important task of translation.
 
-5. Committee recommendations being made and formally presented to the board of directors. 
+E. Committee recommendations being made and formally presented to the board of directors. 
 (which of course can lead to personal comments from each of them)
 
 
