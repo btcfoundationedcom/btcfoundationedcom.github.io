@@ -9,7 +9,7 @@ Earliest Chair was Charles Hoskinson, then Elizabeth Ploshay and now King Nikos 
 
 b. Selecting the Tools
 In the earliest incarnations there was an organic growth that led to GitHub as the tool of choice, and prepared documents were moved here and formatted.
-- 
+
 c. The Fruits of our collective labour
 The goal has always been to create items which can be used to meet the goals of the foundation.
 listing of said documents, how they compliment the work of other committees and the bitcoin.org crew (we work well with others.) and the open ended nature leaves others free to participate at any time.
