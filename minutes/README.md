@@ -1,5 +1,13 @@
 # Education Committee Meeting Minutes
 
+- [June 3, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-06-03.md)
+
+- [May 27, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-05-27.md)
+
+- [May 6, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-05-06.md)
+
+- [April 29, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-04-29.md)
+
 - [April 22, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-04-22.md)
 
 - [April 15, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-04-15.md)
