@@ -1,4 +1,4 @@
-# Decentralizing the Bitcoin Foundation Education Committee
+# Functions of the Bitcoin Foundation Education Committee
 
 (I don't like the title it should be something like: Functions of the Bitcoin Foundation Education Committee) and 
 we should add a paragraph about the participation in grants program and the production of the various guide documents
