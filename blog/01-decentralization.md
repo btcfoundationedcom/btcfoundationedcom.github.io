@@ -1,18 +1,11 @@
-# Decentralizing the content creation process of the education committee
+# Decentralizing the Bitcoin Foundation Education Committee
 
-The above title is just a suggestion. Please change it as you see fit.
+From the three goals of the Bitcoin Foundation (standardization, protection and promotion of Bitcoin), the education committee is focused on promotion. To promote Bitcoin, the committee currently focuses on producing best-practice guides that members of the general public can turn to for information about Bitcoin and its potential. What we would like to share with you in this article is how the committee is creating those materials with an eye towards its decentralization and its opening to the community.
 
----------
+During the past few months, the committee has been using Github for content hosting, content generation, task management and credit attribution. The goal is for all content created by the committee to be hosted on Github, all editing to be done there, all tasks to be public and, most importantly, membership and standing in the committee to be determined by contributions.
 
+We have created [guides](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/tree/master/guides) with give an introduction to Bitcoin, and talk about selecting a wallet, buying bitcoin, using bitcoin in business and the technical part of bitcoin for non-technical users. You can also see the [proposals](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/tree/master/proposals) that include among other the committee's university relations and the committee's social media presence. Those proposals and recommendations are made to the Board of the Foundation from time to time. Because these materials were created in an open-ended way, everybody is free to participate at any time.
 
-The Decentralizing of the Bitcoin Foundation Education Committee
+People in the committee come and go, ideas gain and lose momentum but with Github everybody's work is visible to the world. Committee membership is not determined by a decree and nobody chooses whom to appoint in the committee. There is a chair-person, currently Nikos Bentenitis, who is pushing towards this vision, is contributing to the materials presented and is encouraging everybody to participate. Nikos' idea is that if this experiment in decentralized content creation succeeds, there will be no need for a Chair.
 
-a. Unfolding Process The decentralized nature of the committee (referencing our favorite protocal as the guiding light) people have come and gone, many have stayed to participate Earliest Chair was Charles Hoskinson, then Elizabeth Ploshay and now King Nikos (humour to be removed)
-
-b. Selecting the Tools In the earliest incarnations there was an organic growth that led to GitHub as the tool of choice, and prepared documents were moved here and formatted.
-
-c. The Fruits of our collective labour The goal has always been to create items which can be used to meet the goals of the foundation. listing of said documents, how they compliment the work of other committees and the bitcoin.org crew (we work well with others.) and the open ended nature leaves others free to participate at any time.
-
-d. Education Committee Social media and the work being done by a few participants. Including the important task of translation.
-
-e. Committee recommendations being made and formally presented to the board of directors. (which of course can lead to personal comments from each of them)
+We invite you to look at the committee's homepage, repository, outstanding tasks (called issues on Github), and current contributors. And we encourage you to set up a Github account and to contribute to the committee's work by updating our guides, translating them or sharing them with your network. The committee has a social media presence with committee members sharing the credentials of social media accounts and posting there. So join us on Twitter and Facebook, if you would like to get in touch.
