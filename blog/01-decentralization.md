@@ -1,8 +1,6 @@
 # Functions of the Bitcoin Foundation Education Committee
 
-(I don't like the title it should be something like: Functions of the Bitcoin Foundation Education Committee) and 
-we should add a paragraph about the participation in grants program and the production of the various guide documents
-(is there anyway to add comments to github content as opposed to editing the document itself like this?) I think this blog post is mostly OK but the emphasis seems to be on github rather then the actual functions and work of the committee...thoughts?
+
 
 From the three goals of the Bitcoin Foundation (standardization, protection and promotion of Bitcoin), the education committee is focused on promotion. To promote Bitcoin, the committee currently focuses on producing best-practice guides that members of the general public can turn to for information about Bitcoin and its potential. What we would like to share with you in this article is how the committee is creating those materials with an eye towards its decentralization and its opening to the community.
 
