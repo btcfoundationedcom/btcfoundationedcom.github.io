@@ -29,13 +29,12 @@ Fedora / CentOS: sudo yum update openssl
 Regardless of the operating system shown above, the following is an important final step in this process:
 Type in your terminal, the following:
 openssl version
-Once you've typed this in and hit enter or return, it should return (as of April 2014): OpenSSL1.0.1g 7 Apr 2014
+Once you've typed this in and hit enter or return, it should return:
+(as of April 2014): OpenSSL1.0.1g 7 Apr 2014
+(as of June 5, 2014): OpenSSL1.0.1h 5 Jun 2014
 Later releases will result in a higher numbered version with a later date associated with it.  
-As of April 2014, this (1.0.1.g 7 Apr 2014) is the most current OpenSSL version.   
-If you didn't see that version appear, please follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/).
-If the text in your terminal tells you that you don't have curl, enter the command that it tells you to, so that it can
-install curl and then enter any password if necessary.  It will install curl.  When it's done, then go ahead and copy
-and paste the commands into the terminal [as shown here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) and then check for openssl version.
+If you didn't see the most current version appear, please follow the more detailed instructions below, under the section titled, 
+'What if I couldn't update to the most current version?'
 
 Important Notes!
 
@@ -50,7 +49,16 @@ For more detailed information:
 
 openssl version -a
 
-If the version present does not match the most current OpenSSL version available (note that as of April 2014, the version shown as (1.0.1.g 7 Apr 2014) is the most current OpenSSL version), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/).
+'What if I couldn't update to the most current version?'
+
+If you've done everything recommended above, and the version present on your system still does not match the most current OpenSSL version available, which can be found marked as 'latest' at [the OpenSSL binaries page](https://www.openssl.org/source/), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/). Note that the instructions shown at [that link](http://blog.quent.in/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) were written for the initial heartbleed mitigation in early April, and do not address [the security issue released on June 5, 2014](https://www.openssl.org/news/secadv_20140605.txt) or any future notices.  For this reason, it is important that you ensure that after checking by using the openssl version command as shown above, that you check it against [the most current OpenSSL version available](https://www.openssl.org/source/) and update accordingly.  Thus, if the update and upgrade commands mentioned earlier in this post did not update OpenSSL on your system, the commands you would use would look like this, as of June 5, 2014:
+
+curl https://www.openssl.org/source/openssl-1.0.1h.tar.gz | tar xz && cd openssl-1.0.1g && sudo ./config && sudo make && sudo make install
+
+sudo ln -sf /usr/local/ssl/bin/openssl `which openssl`
+
+By copying and pasting the two lines shown above, you  can ensure update to the most current OpenSSL version out June 5, 2014.
+Note that if the version changes in the future (after June 5, 2014), you can always use these same commands, but instead of openssl-1.0.1h.tar.gz appearing in part of the first line, you will replace that text with [whatever OpenSSL version is released as most current](https://www.openssl.org/source/) in the future, prior to using the commands shown above.
 
 You can also list all available ciphers, as follows:
 
@@ -81,5 +89,12 @@ Reverse Heartbleed?  Yes, there is such a thing.  [This tool](https://reversehea
 
 If you are reading this, you use github. [Read Github's entire page](https://github.com/blog/1818-security-heartbleed-vulnerability) - it's not that long - on what to do to address the issues.  You may also want to visit your settings, and remove any authorized applications you have that have not yet fixed for heartbleed or reverse heartbleed.  If you haven't done this lately, go to account settings, two-factor authentication section (which should be on!) and note your recovery codes.
 
+#### ResetTheNet
+
+Consider making everything you do more secure.  This will help you and many others.  Check out [ResetTheNet](https://www.resetthenet.org/) to learn more.
+
 
 In closing, if there's something missing or flawed or just needs to be changed here, please by all means dive in and add, change, etc. This is intended to help everyone.  Thanks in advance!
+
+<script src="https://fightforthefuture.github.io/reset-the-net-banner/banner/rtn.js"
+async></script>
