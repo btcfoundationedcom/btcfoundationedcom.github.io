@@ -20,6 +20,7 @@ Note it asks you for your password to continue once you hit enter after these co
 and it will prompt you Y/n at some point in the process, you want to type Y:
 
 Mac / OSX: brew upgrade openssl
+For OSX users, it is recommended to also see more detailed instructions [here](http://sgeb.me/articles/macosx-and-openssl-heartbleed/#updating-the-openssl-libs-on-mac-os-x).
 
 Debian / Ubuntu: sudo apt-get update && sudo apt-get upgrade
 (Once that's all done, for Ubuntu, read and check [this](http://askubuntu.com/questions/444702/how-to-patch-the-heartbleed-bug-cve-2014-0160-in-openssl/444829#444829).)
@@ -32,7 +33,10 @@ openssl version
 Once you've typed this in and hit enter or return, it should return:
 (as of April 2014): OpenSSL1.0.1g 7 Apr 2014
 (as of June 5, 2014): OpenSSL1.0.1h 5 Jun 2014
-Later releases will result in a higher numbered version with a later date associated with it.  
+Later releases will result in a higher numbered version with a later date associated with it.
+As of June 5, 2014, OpenSSL 0.9.8 SSL/TLS users (client and/or server) should upgrade to 0.9.8za.
+OpenSSL 1.0.0 SSL/TLS users (client and/or server) should upgrade to 1.0.0m.
+OpenSSL 1.0.1 SSL/TLS users (client and/or server) should upgrade to 1.0.1h.
 If you didn't see the most current version appear, please follow the more detailed instructions below, under the section titled, 
 'What if I couldn't update to the most current version?'
 
