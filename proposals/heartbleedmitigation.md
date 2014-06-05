@@ -20,6 +20,7 @@ Note it asks you for your password to continue once you hit enter after these co
 and it will prompt you Y/n at some point in the process, you want to type Y:
 
 Mac / OSX: brew upgrade openssl
+
 For OSX users, it is recommended to also see more detailed instructions [here](http://sgeb.me/articles/macosx-and-openssl-heartbleed/#updating-the-openssl-libs-on-mac-os-x).
 
 Debian / Ubuntu: sudo apt-get update && sudo apt-get upgrade
