@@ -55,11 +55,16 @@ If you've done everything recommended above, and the version present on your sys
 
 (Copy and paste all of the following into your terminal and press enter)
 
+```
 curl https://www.openssl.org/source/openssl-1.0.1h.tar.gz | tar xz && cd openssl-1.0.1g && sudo ./config && sudo make && sudo make install
+```
 
 (Next, when that's done, copy and paste the following into your terminal, and press enter)
 
+
+```
 sudo ln -sf /usr/local/ssl/bin/openssl `which openssl`
+```
 
 By copying and pasting the two lines shown above, you  can ensure update to the most current OpenSSL version out June 5, 2014.
 Note that if the version changes in the future (after June 5, 2014), you can always use these same commands, but instead of openssl-1.0.1h.tar.gz appearing in part of the first line, you will replace that text with [whatever OpenSSL version is released as most current](https://www.openssl.org/source/) in the future, prior to using the commands shown above.
