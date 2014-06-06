@@ -125,4 +125,4 @@ Consider making everything you do more secure.  This will help you and many othe
 
 In closing, if there's something missing or flawed or just needs to be changed here, please by all means dive in and add, change, etc. This is intended to help everyone.  Thanks in advance!
 
-![Image](https://fightforthefuture.github.io/reset-the-net-banner/banner/rtn.js?raw=true)
+![ResetTheNet](https://www.resetthenet.org/images/banner-take-back.png?raw=true)
