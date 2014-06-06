@@ -19,18 +19,18 @@ Terminal is open? Great, now do the below commands depending on your operating s
 Note it asks you for your password to continue once you hit enter after these commands, 
 and it will prompt you Y/n at some point in the process, you want to type Y:
 
-Mac / OSX: brew upgrade openssl
+Mac / OSX: ```brew upgrade openssl```
 
 For OSX users, it is recommended to also see more detailed instructions [here](http://sgeb.me/articles/macosx-and-openssl-heartbleed/#updating-the-openssl-libs-on-mac-os-x).
 
-Debian / Ubuntu: sudo apt-get update && sudo apt-get upgrade
+Debian / Ubuntu: ```sudo apt-get update && sudo apt-get upgrade```
 (Once that's all done, for Ubuntu, read and check [this](http://askubuntu.com/questions/444702/how-to-patch-the-heartbleed-bug-cve-2014-0160-in-openssl/444829#444829).)
 
-Fedora / CentOS: sudo yum update openssl
+Fedora / CentOS: ```sudo yum update openssl```
 
 Regardless of the operating system shown above, the following is an important final step in this process:
 Type in your terminal, the following:
-openssl version
+```openssl version```
 Once you've typed this in and hit enter or return, it should return:
 (as of April 2014): OpenSSL1.0.1g 7 Apr 2014
 (as of June 5, 2014): OpenSSL1.0.1h 5 Jun 2014
@@ -48,15 +48,26 @@ be sure to also check again your OpenSSL version (see below):
 
 Some key commands from terminal to get you information you need about your openssl:
 
-openssl version
+```openssl version```
 
 For more detailed information:
 
-openssl version -a
+```openssl version -a```
+
+You can obtain even more information, depending on your operating system, with these commands:
+
+(Debian / Ubuntu)
+```dpkg -l | grep "openssl"```
+
+(CentOS / Fedora)
+```rpm -q -a | grep "openssl"```
+
+(ArchLinux)
+```pacman -Q | grep "openssl"```
 
 'What if I couldn't update to the most current version?'
 
-If you've done everything recommended above, and the version present on your system still does not match the most current OpenSSL version available, which can be found marked as 'latest' at [the OpenSSL binaries page](https://www.openssl.org/source/), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/). Note that the instructions shown at [that link](http://blog.quent.in/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) were written for the initial heartbleed mitigation in early April, and do not address [the security issue released on June 5, 2014](https://www.openssl.org/news/secadv_20140605.txt) or any future notices.  For this reason, it is important that you ensure that after checking by using the openssl version command as shown above, that you check it against [the most current OpenSSL version available](https://www.openssl.org/source/) and update accordingly.  Thus, if the update and upgrade commands mentioned earlier in this post did not update OpenSSL on your system, the commands you would use would look like this, as of June 5, 2014:
+If you've done everything recommended above, and the version present on your system still does not match the most current OpenSSL version available, which can be found marked as 'latest' at [the OpenSSL binaries page](https://www.openssl.org/source/), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/). Note that the instructions shown at [that link](http://blog.quent.in/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) were written for the initial heartbleed mitigation in early April, and do not address [the security issue released on June 5, 2014](https://www.openssl.org/news/secadv_20140605.txt) or any future notices (see also Masashi Kikuchi's [post of June 5, 2014](http://ccsinjection.lepidum.co.jp/blog/2014-06-05/CCS-Injection-en/index.html)).  For this reason, it is important that you ensure that after checking by using the openssl version command as shown above, that you check it against [the most current OpenSSL version available](https://www.openssl.org/source/) and update accordingly.  Thus, if the update and upgrade commands mentioned earlier in this post did not update OpenSSL on your system, the commands you would use would look like this, as of June 5, 2014:
 
 (Copy and paste all of the following into your terminal and press enter)
 
@@ -76,7 +87,7 @@ Note that if the version changes in the future (after June 5, 2014), you can alw
 
 You can also list all available ciphers, as follows:
 
-openssl ciphers -v
+```openssl ciphers -v```
 
 Other notes, the most current OpenSSL version and FAQ, and additional details are found [here](https://www.openssl.org/support/faq.html).
 
@@ -103,6 +114,10 @@ Reverse Heartbleed?  Yes, there is such a thing.  [This tool](https://reversehea
 
 If you are reading this, you use github. [Read Github's entire page](https://github.com/blog/1818-security-heartbleed-vulnerability) - it's not that long - on what to do to address the issues.  You may also want to visit your settings, and remove any authorized applications you have that have not yet fixed for heartbleed or reverse heartbleed.  If you haven't done this lately, go to account settings, two-factor authentication section (which should be on!) and note your recovery codes.
 
+#### Web Servers
+
+If you are running a server, [this heartbleed guide](https://www.digitalocean.com/community/articles/how-to-protect-your-server-against-the-heartbleed-openssl-vulnerability) contains steps to the rekeying process.  This is relevant for those who have purchased SSL certificates from a provider.
+
 #### ResetTheNet
 
 Consider making everything you do more secure.  This will help you and many others.  Check out [ResetTheNet](https://www.resetthenet.org/) to learn more.
@@ -110,5 +125,4 @@ Consider making everything you do more secure.  This will help you and many othe
 
 In closing, if there's something missing or flawed or just needs to be changed here, please by all means dive in and add, change, etc. This is intended to help everyone.  Thanks in advance!
 
-<script src="https://fightforthefuture.github.io/reset-the-net-banner/banner/rtn.js"
-async></script>
+![Image](https://fightforthefuture.github.io/reset-the-net-banner/banner/rtn.js?raw=true)
