@@ -11,3 +11,6 @@
 - Where can one read the Foundation's bylaws? How can the bylaws be amended?
 - What programs does the Foundation support? Briefly, what is the grant approval process?
 - What are the committees of the Foundation and what is their role?
+- What kind of services can the Foundation  provide to members (i.e. legal, technical)?
+- Does the Foundation have a list of recommended trusted bitcoin wallet providers?
+- Where can I go to find Bitcoin Best Practices?
