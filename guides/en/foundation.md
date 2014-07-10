@@ -6,7 +6,7 @@
 *Suggested questions to be answered in this post are below. You have until July 15 to add your questions. Do not attempt to answer them because they will be reordered before they are answered between July 16 and July 29. The article will be sent to Bradford Wheeler on July 30.* 
 
 - Who is a member of the Board of the BF? What type of board memberships exist?
-- How frequently does the Board meet? When are the meeting minutes posted?
+- How frequently does the Board meet? Where can I find the agenda for their next meeting? When are the meeting minutes posted?
 - What is the organizational structure of the Foundation? What are the responsibilities of the staff at the Foundation?
 - Where can one read the Foundation's bylaws? How can the bylaws be amended?
 - What programs does the Foundation support? Briefly, what is the grant approval process?
