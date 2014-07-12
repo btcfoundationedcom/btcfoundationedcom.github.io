@@ -14,3 +14,7 @@
 - What kind of services can the Foundation  provide to members (i.e. legal, technical)?
 - Does the Foundation have a list of recommended trusted bitcoin wallet providers?
 - Where can I go to find Bitcoin Best Practices?
+- What are the current communications methods used by the Bitcoin Foundation Mmebership, Board and Staff.
+- What are the rules for participating on the Bitcoin Foundation forums?
+- Why is the Bitcoin Foundation Forum available to read by non-members?
+- 
