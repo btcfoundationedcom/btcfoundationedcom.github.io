@@ -1,7 +1,7 @@
 % Introduction to the Bitcoin Foundation
 % Education Committee of the Bitcoin Foundation
 
-**Audience**: This guide is intended for new members of the Bitcoin Foundation. The text of this document will be included in the welcome message that new members receive when they join the Foundation. It will be in the form of a FAQ.
+**Audience**: This guide is intended for new members of the Bitcoin Foundation. The text of this document will be included in a forum welcome message that new members receive when they join the Foundation. It will be in the form of a FAQ.
 
 *The questions to be answered in this FAQ are listed below. In the interest of time, please do not pose new questions. You have until July 29 to answer the existing ones and new questions will be included in the next version. The article will be sent to Bradford Wheeler on July 30.* 
 
