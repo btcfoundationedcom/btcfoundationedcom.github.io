@@ -7,8 +7,8 @@
 
 ## Organization of the Foundation
 1. What is the organizational chart of the Foundation? What are the responsibilities of the staff at the Foundation?
-### 2. Where can one read the Foundation's bylaws? How can the bylaws be amended?
-The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws). The Board of Directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request.
+2. **Where can one read the Foundation's bylaws? How can the bylaws be amended?**
+The Foundation bylaws can be found on Github (at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws)). The Board of Directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request.
 3. Who is currently a member of the Board of the Foundation? What type of board memberships exist?
 4. How frequently does the Board meet? Where can I find the agenda for their next meeting? When are the meeting minutes posted?
 5. What are the committees of the Foundation and what is their role?
