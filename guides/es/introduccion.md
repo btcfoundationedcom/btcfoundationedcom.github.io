@@ -24,26 +24,30 @@ Ahora usted sabe que :
 
 Ahora, vamos a considerar algunos casos en bitcoin y la red Bitcoin es superior a las monedas existentes y redes de pago.
 
-- Si usted es uno de los 2,5 millones de personas en este mundo que no tienen una cuenta bancaria o si usted tiene amigos y familiares que viven en otros países, que puede utilizar la red Bitcoin Bitcoin para intercambiar con personas de todo el mundo inmediatamente sin o con un costo muy reducido.
+- Si usted es uno de los 2,5 millones de personas en este mundo que no tienen una cuenta bancaria o si usted tiene amigos y familiares que viven en otros países, puede utilizar la red Bitcoin Bitcoin para intercambiar bitcoins con personas de todo el mundo inmediatamente sin costes o con un costo muy reducido.
 
-- Si usted tiene ahorros y usted está preocupado de que su gobierno podría confiscar parte de ella, al igual que el gobierno de Chipre hizo en marzo del 2013, se podría transferir una parte de sus ahorros en bitcoin para protegerlo.
+- Si usted tiene ahorros y está preocupado de que su gobierno podría confiscar parte de ellos, al igual que el gobierno de Chipre hizo en marzo del 2013, usted podría transferir una parte de sus ahorros a bitcoin para protegerlo.
 
-- Usar la red Bitcoin usted puede intercambiar bitcoins con la gente que nunca ha conocido mientras que ser absolutamente seguro de que sus bitcoins va a terminar con el propietario legítimo. Y todo esto sin la necesidad de un banco para que actúe como intermediario.
+- Usando la red Bitcoin usted puede intercambiar bitcoins con gente que nunca ha conocido con la total seguridad de que los bitcoins van a llegar al propietario legítimo. Y todo esto sin la necesidad de un banco para que actúe como intermediario.
 
-- Las remesas, pagos normalmente enviado por un miembro de la familia que vive en otro país de nuevo a la familia en el país de origen, puede tener grandes costos de transacción. Bitcoin permite tales pagos, con tasas mucho más bajas.
+- Las remesas, pagos normalmente enviados por un miembro de la familia que vive en otro país de nuevo a la familia en el país de origen, pueden tener grandes costos de transacción. Bitcoin permite tales pagos, con tasas mucho más bajas.
 
-Por último, tenga en cuenta que Bitcoin es una nueva tecnología que puede tener muchas nuevas aplicaciones en el futuro. Similar a la forma en que la Internet a principios de 1990 fue considerado casi sinónimo de correo electrónico, se considera Bitcoin hoy, por la mayoría, sinónimo de la red de pago y la moneda Bitcoin Bitcoin. Pero de la misma manera que la Internet de hoy no es sólo un correo electrónico, sino también de la World Wide Web, video por Internet y telefonía, Bitcoin mañana será más de lo que es hoy.
+Por último, tenga en cuenta que Bitcoin es una nueva tecnología que puede tener muchas nuevas aplicaciones en el futuro. Similar a la forma en que Internet a principios de 1990 fue considerado casi sinónimo de correo electrónico, se considera Bitcoin hoy, para la mayoría de la gente, sinónimo de la red de pago y la moneda Bitcoin. Pero de la misma manera que la Internet de hoy no es sólo correo electrónico, sino también la World Wide Web, video por Internet y telefonía, Bitcoin mañana será aún más de lo que es hoy.
 
-Así que prepárate para el futuro aprendiendo más acerca de Bitcoin. Usted puede comenzar a aprender el significado de algunos términos importantes que se incluyen en las preguntas más frecuentes a continuación:
+Así que prepárate para el futuro aprendiendo más acerca de Bitcoin. Puedes comenzar a aprender el significado de algunos términos importantes que se incluyen en las preguntas más frecuentes a continuación:
 
 **¿Qué es una dirección Bitcoin?**
 
-Una dirección Bitcoin es similar a los números de cuenta en un banco. Puede enviar bitcoins dinero a cualquier dirección, al igual que usted puede enviar dinero a cualquier cuenta bancaria si usted sabe su número, y sólo se puede gastar bitcoins desde una dirección que usted controla. Usted controla su dirección Bitcoin por una clave secreta, llamada la clave privada. A diferencia de una cuenta en un banco, sin embargo, usted puede fácilmente tener tantas direcciones de Bitcoin como desee.
+Una dirección Bitcoin es similar a los números de cuenta en un banco. Puede enviar dinero en bitcoins a cualquier dirección, al igual que usted puede enviar dinero a cualquier cuenta bancaria si usted sabe su número, y sólo se pueden gastar bitcoins desde una dirección que usted controla. Usted controla su dirección Bitcoin por una clave secreta, llamada la clave privada. A diferencia de una cuenta en un banco, sin embargo, usted puede fácilmente tener tantas direcciones de Bitcoin como desee.
 
-**¿Qué es un Bitcoin Wallet?**
+**¿Qué es un Bitcoin Wallet o Cartera Bitcoin?**
 
-Una billetera Bitcoin es un programa informático que contiene las claves privadas de sus direcciones de Bitcoin y hace que las transferencias hacia y desde esas direcciones fáciles y seguras. Una cartera también le muestra el equilibrio de todos los bitcoins que existen en el Bitcoin aborda lo que contiene. Debe proteger su cartera con una contraseña segura y asegurarse de que nadie más tiene acceso a ella. Esto es muy importante y tiene que ser repetido : Nunca se debe dar a conocer la clave privada asociada a una dirección Bitcoin! Si usted permite que otra persona hacerse con una clave privada, se les permitirá pasar sus Bitcoins desde su dirección bitcoin. Es un poco de miedo a darse cuenta de esto, pero una vez que lo haces no es gran cosa ; sólo proteger las claves mediante la encriptación de ellos, algo que su cartera hace conveniente.
+Una cartera Bitcoin es un programa informático que contiene las claves privadas de sus direcciones de Bitcoin y hace que las transferencias desde y hacia esas direcciones sean fáciles y seguras. Una cartera también le muestra el balance de todas las direcciones de Bitcoin que contiene.
 
-**¿Cuál es el trato con la criptografía y la seguridad?**
+**¿Qué es un Bitcoin Wallet o Cartera Bitcoin?**
 
-Usted puede leer un montón de descripciones acerca de Bitcoin que mencionan la criptografía, las funciones hash, públicas y claves privadas y todo tipo de términos que suenan muy geek. Para empezar, lo único que realmente necesita entender es que Bitcoin funciona y sus bitcoins son seguros gracias a las matemáticas complicadas. Esta matemática complicada le permite hacer negocios y dinero intercambio con la gente en el Internet que usted no conoce y que no confía necesariamente. Y eso es una cosa realmente genial!
+Debe proteger su cartera con una contraseña segura y asegurarse de que nadie más tiene acceso a ella. Esto es muy importante y tiene que ser repetido: ¡Nunca debe dar a conocer la clave privada asociada a su dirección Bitcoin! Si usted permite que otra persona se haga con una de sus claves privadas, les permitirá enviar sus Bitcoins desde su dirección bitcoin. Comprender esto puede provocar un poco de miedo, pero una vez entendido no es gran cosa; sólo es necesario proteger las claves encriptándolas, algo que su cartera hace de manera conveniente.
+
+**¿Qué es todo el tema de la criptografía y la seguridad?**
+
+Usted puede leer un montón de descripciones acerca de Bitcoin que mencionan la criptografía, las funciones hash, las claves públicas y claves privadas y todo tipo de términos que suenan muy técnicos. Para empezar, lo único que realmente necesita entender es que Bitcoin funciona y sus bitcoins están seguros gracias a unas matemáticas complicadas. Esta matemática complicada le permite hacer negocios e intercambio de dinero con gente en Internet que usted no conoce y en la que no necesariamente confía. ¡Y eso es una cosa realmente genial!
