@@ -3,26 +3,26 @@
 
 **¿Qué es Bitcoin, y por qué me debe importar?**
 
-Cuando la mayoría de las personas conocen Bitcoin, el primero que preguntan es " ¿Qué es? " Esta guía proporciona una respuesta concisa a esta pregunta y explica algunos de los términos que por lo general se oyen en relación con Bitcoin.
+Cuando la mayoría de las personas conocen Bitcoin, lo primero que preguntan es "¿Qué es?" Esta guía proporciona una respuesta concisa a esta pregunta y explica algunos de los términos que por lo general se oyen en relación con Bitcoin.
 
-Para efectos prácticos, Bitcoin puede ser pensado como sólo dos cosas: ( 1 ) Una red de pagos y (2) una moneda que se utiliza en la red de pagos Bitcoin. A menudo nos referimos a la moneda como BTC, como "por favor me paga 3.1 BTC".
+Para efectos prácticos, Bitcoin puede ser pensado como sólo dos cosas: ( 1 ) Una red de pagos y (2) una moneda que se utiliza en la red de pago Bitcoin. A menudo nos referimos a la moneda como BTC, como "por favor págueme 3.1 BTC".
 
-Pero, ¿por qué el mundo necesita otra moneda y otra red de pago? Para responder a esta pregunta, tenemos que ver cómo bitcoin difiere de las monedas existentes y cómo se diferencia de Bitcoin redes de pago existentes.
+Pero, ¿por qué el mundo necesita otra moneda y otra red de pago? Para responder a esta pregunta, tenemos que ver cómo bitcoin difiere de las monedas existentes y cómo se diferencia la red de pago Bitcoin de redes de pago existentes.
 
-La moneda bitcoin es exclusivamente digital. No se emite o respaldada por un gobierno, organización o empresa. Nunca habrá más de 21 millones de bitcoins, y los aumentos de la oferta monetaria con una tasa predefinida y disminuyendo hasta alcanzar su límite. Esas características son casi completamente antitética respecto a los de las monedas locales. Por ejemplo, el dólar de EE.UU. tiene una forma física ( las cuentas de dólar ), es emitido y respaldado por el banco central de los Estados Unidos, no hay límite a la cantidad de dólares jamás existir, y la tasa de generación o "impresión" de dólares es desconocida.
+La **moneda bitcoin** es exclusivamente digital. No se emite o respaldada por un gobierno, organización o empresa. Nunca habrá más de 21 millones de bitcoins, y el suministro total de bitcoins aumenta a un ratio fijado y decreciente hasta alcanzar el límite. Estas características son casi completamente opuestas a las de las monedas locales. Por ejemplo, el dólar de EE.UU. tiene una forma física ( los billetes de dólar ), es emitido y respaldado por el banco central de los Estados Unidos, no hay límite a la cantidad de dólares que jamás podrán existir y la tasa de generación o "impresión" de dólares es desconocida.
 
-La red Bitcoin es una red descentralizada de peer-to-peer de ordenador, en los cuales las computadoras pueden intercambiar información entre sí sin la mediación de un servidor central. Por tanto, la red Bitcoin es neutral porque ningún ordenador central puede no permita otro equipo para formar parte de la red. La seguridad de los mensajes intercambiados en la red Bitcoin está garantizada por el uso de la criptografía de clave pública, y la validez de las transacciones está garantizada por los cálculos matemáticos duros que los equipos de la red tienen que realizar en un proceso llamado " la minería. " Finalmente, los costos de transacción en la red Bitcoin son gratuitos o muy baja.
+La **red Bitcoin** es una red descentralizada de ordenadores de punto a punto, en los cuales las computadoras pueden intercambiar información entre sí sin la mediación de un servidor central. Por tanto, la red Bitcoin es neutral porque ningún ordenador central puede prohibir a otro equipo formar parte de la red. La seguridad de los mensajes intercambiados en la red Bitcoin está garantizada gracias al uso de la criptografía de clave pública, y la validez de las transacciones está garantizada por los complicados cálculos matemáticos que los equipos de la red tienen que realizar en un proceso llamado "la minería." Finalmente, los costos de las transacciones en la red Bitcoin son gratuitos o muy bajos.
 
-Ahora vamos a comparar la red Bitcoin con SWIFT, la red de pago utilizado por muchos bancos en el mundo. La red SWIFT depende de un número selecto de servidores de un ordenador y es una red centralizada. De manera similar a la red Bitcoin, los mensajes en la red SWIFT están garantizados por la criptografía, pero las transacciones son validadas por una base de datos central. Por último, las transacciones en la red SWIFT puede ser bastante costoso.
+Ahora vamos a comparar la red Bitcoin con SWIFT, la red de pago utilizado por muchos bancos en el mundo. La red SWIFT depende de un número selecto de ordenadores servidores y es una red centralizada. De manera similar a la red Bitcoin, los mensajes en la red SWIFT están garantizados por la criptografía, pero las transacciones son validadas por una base de datos central. Por último, las transacciones en la red SWIFT pueden ser bastante costosas.
 
 Ahora usted sabe que :
 
 - La moneda Bitcoin es exclusivamente digital, independiente de cualquier autoridad central de emisión, sin fronteras, con una oferta de dinero que es limitado y predeterminado.
 
-- La red Bitcoin es una red descentralizada, neutral peer -to-peer equipo que está asegurado por la criptografía y los cargos cero o tasas diminutas.
+- La red Bitcoin es una red descentralizada, neutral, de ordenadores de punto a punto que está asegurada por la criptografía y con costos nulos o cercanos a cero.
 
 
-Ahora, vamos a considerar algunos casos en bitcoin y la red Bitcoin es superior a las monedas existentes y redes de pago.
+Ahora, vamos a considerar algunos casos donde bitcoin y la red Bitcoin es superior a las monedas existentes y redes de pago.
 
 - Si usted es uno de los 2,5 millones de personas en este mundo que no tienen una cuenta bancaria o si usted tiene amigos y familiares que viven en otros países, puede utilizar la red Bitcoin Bitcoin para intercambiar bitcoins con personas de todo el mundo inmediatamente sin costes o con un costo muy reducido.
 
