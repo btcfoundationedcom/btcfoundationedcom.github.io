@@ -44,7 +44,7 @@ A Bitcoin address is similar to the account numbers in a bank. You can send mone
 
 **What is a Bitcoin Wallet?**
 
-A Bitcoin wallet is a very general term meaning a piece of software running on the Web, a Mac or PC, IOS or Adroid, which enables transactions with the Bitcoin protocal.    The software typically shows the balance of all bitcoins that exist related to the Bitcoin addresses it holds.  Beyond that general statement, wallets vary widely.  They may or may not provide you with your own private keys, for example.  
+A Bitcoin wallet is a very general term meaning a piece of software running on the Web, a Mac or PC, IOS or Adroid, which enables transactions with the Bitcoin protocol.    The software typically shows the balance of all bitcoins that exist related to the Bitcoin addresses it holds.  Beyond that general statement, wallets vary widely.  They may or may not provide you with your own private keys, for example.  
 
 **What is Wallet security?**
 You should protect your wallet with a strong password and make sure nobody else has access to it. This is very important and it has to be repeated: You should never give out the private key associated with a Bitcoin address! If you let someone else get hold of a private key, they will be allowed to spend your Bitcoins from your bitcoin address. It’s a little scary to realize this, but once you do it’s no big deal; just protect the keys by encrypting them, something that your wallet makes convenient.
