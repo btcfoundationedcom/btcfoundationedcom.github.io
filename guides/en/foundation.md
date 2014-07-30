@@ -3,23 +3,51 @@
 
 **Audience**: This guide is intended for new members of the Bitcoin Foundation. The text of this document will be included in a forum welcome message that new members receive when they join the Foundation. It will be in the form of a FAQ.
 
-*The questions to be answered in this FAQ are listed below. In the interest of time, please do not pose new questions. You have until July 29 to answer the existing ones and new questions will be included in the next version. The article will be sent to Bradford Wheeler on July 30.* 
+1. **Who is currently a member of the Foundation's Board of Directors? What type of board memberships exist?** 
 
-## Organization of the Foundation
-1. What is the organizational chart of the Foundation? What are the responsibilities of the staff at the Foundation?
-2. **Where can one read the Foundation's bylaws? How can the bylaws be amended?** The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws)). The Board of Directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request.
-3. **Who is currently a member of the Foundation's Board of Directors? What type of board memberships exist?** Up-to-date board member information can be found at [this link](https://bitcoinfoundation.org/about/board/). The current Board of Directors for the foundation consists of Gavin Andresen, Bobby Lee, Micky Malka, Jon Matonis, Brock Pierce, Elizabeth T. Ploshay, Peter Vessenes, and Patrick Murck. There are three different types of board memberships: individual seats, corporate seats, and founders seats.
-4. **How frequently does the Board meet? Where can I find the agenda for their next meeting? When are the meeting minutes posted?** The Board currently meets on the second Monday of every month, though that is subject to change based on board member availability. The agenda is not publicly available, but any member can submit a potential agenda topic [at this link](https://bitcoinfoundation.org/forum/index.php?/topic/49-bf-board-meeting-agenda-requests/). The minutes for each meeting are posted [at this link](https://bitcoinfoundation.org/forum/index.php?/topic/1017-bitcoin-foundation-board-meeting-minutes/) on the foundation forums, two months after the relevant meeting.
-5. **What are the committees of the Foundation and what is their role?** There is a Grants Committee that reviews grant applications (send to:  grants@bitcoinfoundation.org); An Education Committee that creates informative documents (like this FAQ) on all sorts of bitcoin topics. 
+    Up-to-date board member information can be found at [this link](https://bitcoinfoundation.org/about/overview/) under the "Our Team" heading. The current Board of Directors for the foundation consists of Gavin Andresen, Bobby Lee, Micky Malka, Jon Matonis, Brock Pierce, Elizabeth T. Ploshay, Peter Vessenes, and Patrick Murck. There are three different types of board memberships: individual seats, corporate seats, and founders seats.
 
+2. **Who are the staff of the Foundation, and what are their responsibilities?**
 
-## Benefits for members
-1. What kind of benefits does the Foundation provide to its members (i.e. legal, technical)? The foundation can't provide legal adivice but can point you to competant legal advisors familiar with the Bitcoin ecosystem.
-2. What programs does the Foundation support? Briefly, what is the grant approval process?
-3. Where can I find Foundation-approved best practices for Bitcoin?
-4. Does the Foundation have a list of recommended trusted bitcoin wallet providers?
+    The employees of the Foundation can be found in [this link](https://bitcoinfoundation.org/about/overview/) under the "Our Team" heading.
 
-## Getting involved
-1. What are the current communications methods used by the Foundation's members, board and staff?
-2. What are the rules for participating on the Foundation's forum?
-3. Why is the Foundation's forum available to read by non-members?
+2. **Where can one read the Foundation's bylaws? How can the bylaws be amended?**
+
+    The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws)). The board of directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request on Github.
+
+4. **How frequently does the Board meet? Where can I find the agenda for their next meeting? When are the meeting minutes posted?**
+
+    The Board currently meets on the second Monday of every month, though that is subject to change based on board member availability. The agenda is not publicly available, but any member can submit a potential agenda topic [at this link](https://bitcoinfoundation.org/forum/index.php?/topic/49-bf-board-meeting-agenda-requests/). The minutes for each meeting are posted [at this link](https://bitcoinfoundation.org/forum/index.php?/topic/1017-bitcoin-foundation-board-meeting-minutes/) on the foundation forums, two months after the relevant meeting.
+
+5. **What are the committees of the Foundation and what is their role?**
+
+    The various committees and their role are explained on [this page](https://bitcoinfoundation.org/about/committees/) of the Foundation's website. Briefly, the committees and their responsibilities are:
+    - **[Grants Selection Committee](https://bitcoinfoundation.org/about/grant-program/)**: Reviews grant applications.
+    - **[Education Committee](https://btcfoundationedcom.github.io/)**:  Creates informative documents (like this FAQ) on all sorts of Bitcoin topics and has open membership.
+    - **Regulatory Affairs Committee**: Advises the board on United States regulatory matters.
+    - **Legal Advocacy Committee**: Advises the board and general counsel on significant legal issues such as ongoing civil litigation and criminal prosecutions tied to Bitcoin.
+    - **Elections Committee**: Advises the board on election matters and administers elections at the request of the board.
+
+6. **What kind of benefits does the Foundation provide to its members?**
+
+    The membership benefit program for the Foundation is under development. Current and future benefits for individual members can be found [here](https://bitcoinfoundation.org/join/#individual-membership). Although some of the benefits below have not been implemented, plans include:
+
+	- Access to exclusive discounts and special offers
+	- Access to industry member job postings
+	- Early access and discounts to partner events
+	- Ability to participate in Working Groups
+	- Access to exclusive virtual roundtables and webinars
+	- Exclusive lifetime members only events at Bitcoin 2015
+
+7. **Where can I find Foundation-approved best practices for Bitcoin? Does the Foundation have a list of recommended trusted bitcoin wallet providers?**
+
+    The [Education Committee](https://btcfoundationedcom.github.io/) has created a list of best-practices guides on its [Github repository](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/README.md). Some of those guides have been translated into Spanish and Italian. The Board of the Foundation plans to use some of the materials for its own website.
+
+8. **What are the current communications methods used by the Foundation's members, board and staff?**
+
+    - Members receive a newsletter via email, currently once every three months. For current and past newsletter, [see this page](https://bitcoinfoundation.org/press/past-newsletters/) of the Foundation's website.
+    - The Office of Marketing and Public Relations manages the [blog of the Foundation](https://bitcoinfoundation.org/blog/).
+
+9. **What are the rules for participating on the Foundation's forum? Why is the Foundation's forum available to read by non-members?**
+
+    *Brad, please write the rules.*
