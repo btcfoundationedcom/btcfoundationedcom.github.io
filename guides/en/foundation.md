@@ -30,7 +30,7 @@
 
 6. **What kind of benefits does the Foundation provide to its members?**
 
-    The membership benefit program for the Foundation is under development. Current and future benefits for individual members can be found [here](https://bitcoinfoundation.org/join/#individual-membership). Although some of the benefits below have not been implemented, plans include:
+    The membership benefit program for the Foundation is under development. Although some of the benefits below have not been implemented yet, plans for members include:
 
 	- Access to exclusive discounts and special offers
 	- Access to industry member job postings
@@ -39,7 +39,7 @@
 	- Access to exclusive virtual roundtables and webinars
 	- Exclusive lifetime members only events at Bitcoin 2015
 
-
+	Current and future benefits for individual members can be found [here](https://bitcoinfoundation.org/join/#individual-membership).
 
 7. **Where can I find Foundation-approved best practices for Bitcoin? Does the Foundation have a list of recommended trusted bitcoin wallet providers?**
 
@@ -49,7 +49,7 @@
 
     - Members receive a newsletter via email, currently once every three months. For current and past newsletter, [see this page](https://bitcoinfoundation.org/press/past-newsletters/) of the Foundation's website.
     - The Office of Marketing and Public Relations manages the [blog of the Foundation](https://bitcoinfoundation.org/blog/).
-    
+
 
 9. **What are the rules for participating on the Foundation's forum? Why is the Foundation's forum available to read by non-members?**
 
