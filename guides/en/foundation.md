@@ -11,7 +11,7 @@
 
     The employees of the Foundation can be found in [this link](https://bitcoinfoundation.org/about/overview/) under the "Our Team" heading.
 
-2. **Where can one read the Foundation's bylaws? How can the bylaws be amended?**
+3. **Where can one read the Foundation's bylaws? How can the bylaws be amended?**
 
     The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws)). The board of directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request on Github.
 
@@ -39,6 +39,8 @@
 	- Access to exclusive virtual roundtables and webinars
 	- Exclusive lifetime members only events at Bitcoin 2015
 
+
+
 7. **Where can I find Foundation-approved best practices for Bitcoin? Does the Foundation have a list of recommended trusted bitcoin wallet providers?**
 
     The [Education Committee](https://btcfoundationedcom.github.io/) has created a list of best-practices guides on its [Github repository](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/README.md). Some of those guides have been translated into Spanish and Italian. The Board of the Foundation plans to use some of the materials for its own website.
@@ -47,6 +49,7 @@
 
     - Members receive a newsletter via email, currently once every three months. For current and past newsletter, [see this page](https://bitcoinfoundation.org/press/past-newsletters/) of the Foundation's website.
     - The Office of Marketing and Public Relations manages the [blog of the Foundation](https://bitcoinfoundation.org/blog/).
+    
 
 9. **What are the rules for participating on the Foundation's forum? Why is the Foundation's forum available to read by non-members?**
 
