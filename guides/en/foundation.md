@@ -51,4 +51,23 @@
 
 9. **What are the rules for participating on the Foundation's forum? Why is the Foundation's forum available to read by non-members?**
 
-    *Brad, please write the rules.*
+    The member forums are a place for open discussion of ideas. Members have considerable freedom to post their thoughts, reactions, and feedback, but should be aware of a few basic pointers aimed at keeping discussion focused.
+    	
+    Respecting the following rules will add to productive discussions and maximize potential interaction among membership.
+    
+    >	- Be polite. Do not attack or insult other members.
+    >
+    
+    >	- Be professional. Use language that you would use in a professional work setting.
+    >
+    
+    >	- Be concise. Avoid "tl;dr" ("too long, didn't read") walls-of-text posts.
+    >
+    
+    >	- Stay on topic. If in doubt, start a new topic.
+
+    Breaking these rules will result in intervention from moderators. Additionally, members may elect to ignore content from members deemed to be distracting or objectionable ("ignore preferences" in forum settings).
+    
+    Repeated violations of the rules may result in moderator warnings, transition to moderator pre-approval of postings (modqueue), and suspension of posting privileges. Members are encouraged to [report content that they find objectionable.](https://bitcoinfoundation.org/forum/index.php?/topic/943-message-from-the-mod-keeping-discussions-on-topic-reporting-content-to-the-mods/#entry10842)
+    
+    The member forums were made [read-only to guests in January, 2014.](https://bitcoinfoundation.org/forum/index.php?/topic/646-notice-of-change-in-forum-viewing-settings/#entry7414) Previously, all access to member forums required member credentials. This change was made in order to exemplify the Foundation's position on transparency and to encourage communication with the broader community.
