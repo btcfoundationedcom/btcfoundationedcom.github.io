@@ -47,5 +47,5 @@ with your networks and promote the work of the committee.
 
 -   **A Technical Guide for Non-Technical Users**
 
-    - [PDF, letter size](http://btcfoundationedcom.github.io/guides/en/BTCHandout2NonTech.pdf)
+    - [PDF, letter size](http://btcfoundationedcom.github.io/guides/pdf/BTCHandout2NonTech.pdf)
     - [Apple Pages source](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/guides/en/BTCHandout2NonTech.pages)
