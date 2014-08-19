@@ -1,5 +1,7 @@
 # Education Committee Meeting Minutes
 
+- [August 19, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-08-19.md)
+
 - [August 12, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-08-12.md)
 
 - [August 5, 2014](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/blob/master/minutes/2014-08-05.md)
