@@ -1,4 +1,4 @@
-*Heartbleed and Reverse Heartbleed Mitigation Guide Proposal*
+*Heartbleed, Reverse Heartbleed, Poodlebleed, and More: A Mitigation Guide*
 
 It was suggested by a member of the Education Committee that the following draft guide be provided here.
 Please dive in and edit, add to, delete, modify, etc., as needed.
@@ -62,9 +62,10 @@ You can obtain even more information, depending on your operating system, with t
 
 'What if I couldn't update to the most current version?'
 
-If you've done everything recommended above, and the version present on your system still does not match the most current OpenSSL version available, which can be found marked as 'latest' at [the OpenSSL binaries page](https://www.openssl.org/source/), then follow the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/). Note that the instructions shown at [that link](http://blog.quent.in/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) were written for the initial heartbleed mitigation in early April, and do not address [the security issue released on June 5, 2014](https://www.openssl.org/news/secadv_20140605.txt) or any future notices (see also, as an example, Masashi Kikuchi's [post of June 5, 2014](http://ccsinjection.lepidum.co.jp/blog/2014-06-05/CCS-Injection-en/index.html)).  For this reason, it is important that you ensure that after checking by using the openssl version command as shown above, that you check it against [the most current OpenSSL version available](https://www.openssl.org/source/) and update accordingly.  Thus, if the update and upgrade commands mentioned earlier in this post did not update OpenSSL on your system, the commands you would use would look like this:
+If you've done everything recommended above, and the version present on your system still does not match the most current OpenSSL version available, which can be found marked as 'latest' at [the OpenSSL binaries page](https://www.openssl.org/source/), then review the instructions [here](http://blog.quentinrousseau.fr/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/). Note that the instructions shown at [that link](http://blog.quent.in/blog/2014/04/08/how-to-patch-cve-2014-0160-in-openssl/) were written for the initial heartbleed mitigation in early April, and do not address [the security issue released on June 5, 2014](https://www.openssl.org/news/secadv_20140605.txt) or any future notices (see also, as an example, Masashi Kikuchi's [post of June 5, 2014](http://ccsinjection.lepidum.co.jp/blog/2014-06-05/CCS-Injection-en/index.html)).  For this reason, it is important that you ensure that after checking by using the openssl version command as shown above, that you check it against [the most current OpenSSL version available](https://www.openssl.org/source/) and update accordingly.  Thus, if the update and upgrade commands mentioned earlier in this post did not update OpenSSL on your system, the commands you would use would look like this:
 
 (Note that the following corrects both heartbleed and poodlebleed vulnerabilities as of Oct. 15, 2014.)
+
 (Copy and paste all of the following into your terminal and press enter)
 
 ```
@@ -78,7 +79,7 @@ curl https://www.openssl.org/source/openssl-1.0.1j.tar.gz | tar xz && cd openssl
 sudo ln -sf /usr/local/ssl/bin/openssl `which openssl`
 ```
 
-By copying and pasting the two lines shown above, you  can ensure update to the most current OpenSSL version out June 5, 2014.  Close all open things and restart your computer after you are done.
+By copying and pasting the two lines shown above, you  can ensure update to the most current OpenSSL version.  Close all open things and restart your computer after you are done.
 Note that as the version changes in the future, you can always use these same commands, but instead of openssl-1.0.1j.tar.gz appearing in parts of the first line (where it appears after: curl https://www.openssl.org/source/ with a tar.gz extension and where it appears after: cd (just as the openssl file name)), you will replace that text with [whatever OpenSSL version is released as most current](https://www.openssl.org/source/) in the future, prior to using the commands shown above.
 
 You can also list all available ciphers, as follows:
