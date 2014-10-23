@@ -34,10 +34,16 @@
     2. **Return Processing**
 
         - Merchants may issue return for local currency store credit, as does [Overstock.com](https://help.overstock.com/app/answers/detail/a_id/5794).
+        
+        - Merchants may request a refund address (the refund should never be sent
+          back to the address where the payment was sent from), at such time
+          when a refund is requested.
 
         - Merchants may indicate "All Sales Final" and not issue returns.
 
-        - *Full refunds are a manual process, where a merchant must send bitcoins or cash equivalent back to the customer. Human error could expose several serious risks to both merchant and customer. Refunds are not considered a best practice at this point in time.*
+        - *Full refunds are a manual process, where a merchant must send bitcoins
+           or cash equivalent back to the customer. Human error could expose risks 
+           to both merchant and customer.*
 
 4. **Risk Reduction**
 
