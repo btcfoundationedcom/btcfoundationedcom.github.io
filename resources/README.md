@@ -3,7 +3,7 @@ Educational resources about Bitcoin
 
 The education committee of the Bitcoin Foundation is collecting links related to educational materials about Bitcoin. The references below contains the articles, videos and documents that the committee has collected so far.
 
-If you wish to submit your choice of an existing educational material with [this form](https://docs.google.com/forms/d/1bDA-s3yfhkxfHkz_F426Gov6xpdEfSJzmYN0unyO9bs/viewform).
+If you wish to submit your choice of an existing educational material about Bitcoin, use [this form](https://docs.google.com/forms/d/1bDA-s3yfhkxfHkz_F426Gov6xpdEfSJzmYN0unyO9bs/viewform).
 
 1.  Your response will be collected and reviewed by the members of the committee. To see the members of the committee, visit [this link](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/graphs/contributors).
 
