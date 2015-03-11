@@ -17,6 +17,6 @@ If you would like to contribute to the work of the committee, we would be deligh
 You will receive instructions on how to participate on weekly committee calls and how to contribute to the various tasks of the committee.
 
 Best,
-
+Colin Gallagher
 Chair of the Education Committee
 
