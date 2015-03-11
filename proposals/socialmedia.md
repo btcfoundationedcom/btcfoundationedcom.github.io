@@ -2,11 +2,12 @@
 
 *The following members have access to the committee's social media accounts*:
 
-1. Colin Gallagher
+1. Colin Gallagher (Chair, Education Committee)
 2. Will Pangman
 3. Nikos Bentenitis
 
-*If you would like to post to social media on behalf of the Education Committee, please contact nbentenitis@bitcoinfoundation.org.*
+*If you would like to post to social media on behalf of the Education Committee, please contact
+Colin Gallagher (via the Bitcoin Foundation forum private messaging function, or [via XMPP](https://ssd.eff.org/en/glossary/xmpp) at coling.bitcoinfoundation@dukgo.com), or Nikos Bentenitis at nbentenitis@bitcoinfoundation.org.*
 
 ## Guidelines: Social Media Strategy and Presence for the Education Committee of the Bitcoin Foundation
 
