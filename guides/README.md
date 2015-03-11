@@ -2,7 +2,7 @@ Best-Practices Guides
 ---------------------
 
 The following guides were created by the members of the education
-committee during the past few months. Please use the links to share it
+committee. Please use the links to share it
 with your networks and promote the work of the committee.
 
 -   **Introduction to Bitcoin**
