@@ -11,7 +11,7 @@ If you wish to submit your choice of an existing educational material about Bitc
 
 3.  The committee members cannot guarantee that they will be able to review all submitted links, so please consider this form a way to help the committee discover good educational materials about Bitcoin, and not an official communication with the committee or the Bitcoin Foundation.
 
-4.  For more information, contact the Chair of the committee, Nikos Bentenitis at [nbentenitis@bitcoinfoundation.org](nbentenitis@bitcoinfoundation.org), or create [a Github issue](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/issues/new).
+4.  For more information, contact the Chair of the committee, Colin Gallagher, [via XMPP](https://ssd.eff.org/en/glossary/xmpp) at [coling.bitcoinfoundation@dukgo.com](coling.bitcoinfoundation@dukgo.com). Please note that this is presently provided as a chat function and is not an e-mail address. You can also create [a Github issue](https://github.com/btcfoundationedcom/btcfoundationedcom.github.io/issues/new) to develop discussion or suggest new content.
 
 References
 ==========
