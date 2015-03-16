@@ -5,7 +5,7 @@
 
 1. **Who is currently a member of the Foundation's Board of Directors? What type of board memberships exist?** 
 
-    Up-to-date board member information can be found at [this link](https://bitcoinfoundation.org/about/overview/) under the "Our Team" heading. The current Board of Directors for the foundation consists of Gavin Andresen, Bobby Lee, Micky Malka, Jon Matonis, Brock Pierce, Elizabeth T. Ploshay, Peter Vessenes, and Patrick Murck. There are three different types of board memberships: individual seats, corporate seats, and founders seats.
+    Up-to-date board member information can be found at [this link](https://bitcoinfoundation.org/transparency/#elections). The current Board of Directors for the foundation consists of Bobby Lee, Meyer Malka, Brock Pierce, Elizabeth T. Ploshay, Olivier Janssens, and Jim Harper. There are two different types of board memberships: Individual Directors and Industry Directors.  Following Dec. 31, 2014, there are no Founding Director seats.
 
 2. **Who are the staff of the Foundation, and what are their responsibilities?**
 
