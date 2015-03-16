@@ -9,11 +9,11 @@
 
 2. **Who are the staff of the Foundation, and what are their responsibilities?**
 
-    The employees of the Foundation can be found in [this link](https://bitcoinfoundation.org/about/overview/) under the "Our Team" heading.
+    The employees of the Foundation can be found at [this link](https://bitcoinfoundation.org/transparency/).
 
 3. **Where can one read the Foundation's bylaws? How can the bylaws be amended?**
 
-    The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws). The board of directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws by submitting a pull request on Github.
+    The Foundation bylaws can be found on Github at [this link](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws). The board of directors has the exclusive right to make, alter, amend, or repeal the bylaws by a two-thirds majority vote (See Article IX, Section 9.2). Any foundation member is welcome to propose changes to the bylaws [by submitting a pull request on Github](https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/pulls).
 
 4. **How frequently does the Board meet? Where can I find the agenda for their next meeting? When are the meeting minutes posted?**
 
