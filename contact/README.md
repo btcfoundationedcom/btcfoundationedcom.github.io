@@ -18,4 +18,4 @@ You will receive instructions on how to participate on weekly committee calls an
 
 Best,
 
-Nikos Bentenitis, Chair
+Colin Gallagher, Chair
